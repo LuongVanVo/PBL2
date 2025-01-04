@@ -1,0 +1,38 @@
+- Vi xử lý & đồ họa
+                                Loại card đồ họa: NVIDIA GeForce RTX 3060 6GB GDDR6
+                                Loại CPU: Intel Core i7-11800H
+- RAM & Ổ cứng
+                                Dung luong RAM: 16GB
+                                Loại RAM: 2x 8GB SO-DIMM DDR4-3200
+                                Số khe RAM: 2 khe cắm tối đa 32GB
+                                Ổ cứng: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+- Màn hình
+                                Chất liệu tấm nền: Tấm nền IPS
+                                Công nghệ màn hình: Màn hình chống lóa, tần số quét 165Hz,
+                                                    100% sRGB, Dolby Vision, HDR 400, G-Sync, DC dimmer
+                                Kích thước màn hình: 16 inches
+                                Độ phân giải màn hình: 2560 x 1600 (WQXGA)
+- Giao tiếp & kết nối
+                                Cổng giao tiếp: 3x USB 3.2 Gen 1
+                                                1x USB 3.2 Gen 1 (Always On)
+                                                1x Thunderbolt 4 / USB4 40Gbps
+                                                1x Thunderbolt 4 / USB4 40Gbps
+                                                1x HDMI 2.1
+                                                1x Ethernet (RJ-45)
+                                                1x Headphone / microphone combo jack (3.5mm)
+                                Khe đọc thẻ nhớ: Co 
+                                Wi-Fi: Wi-Fi 6 11ax, 2x2
+                                Bluetooth: v5.1
+- Âm thanh
+                                Công nghệ âm thanh: 2W x2, Nahimic Audio
+- Thiết kế & trọng lượng
+                                Chất liệu: Vỏ kim loại
+                                Kích thước: 356 x 260.2-264.2 x 21.7-26.15 mm
+                                Trọng lượng: 2.3 kg
+- Tiện ích khác
+                                Tính năng đặc biệt: Wi-Fi 6
+- Tính năng khác
+                                Webcam: HD 720p
+                                Hệ điều hành: Windows 11 Home SL 
+- Pin & công nghệ sạc
+                                Pin: 80Wh

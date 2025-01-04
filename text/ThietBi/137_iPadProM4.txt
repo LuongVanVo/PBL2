@@ -1,0 +1,57 @@
+- Màn hình                  
+                                Kích thước màn hình: 11 inches
+                                Công nghệ màn hình: Ultra Retina XDR
+                                Độ phân giải màn hình: 2420x1668 pixel
+                                Tính năng màn hình: Công nghệ ProMotion
+                                                    Độ sáng 1000nits, 264 ppi
+                                                    Tần số quét 120Hz
+                                                    True Tone
+                                                    Công nghệ ép kín
+- Camera sau                
+                                Camera sau: Camera góc siêu rộng 12MP, ƒ/2.4
+                                Quay video: Quay video 4K ở tốc độ 24 fps, 25 fps, 30 fps, hoặc 60 fps
+                                            Quay video HD 1080p ở tốc độ 25 fps, 30 fps, hoặc 60 fps
+                                            Quay video HD 720p ở tốc độ 30 fps
+                                            Quay video ProRes lên đến 4K ở tốc độ 30 fps (1080p 
+                                            ở tốc độ 30 fps đối với máy có dung lượng)
+                                Tính năng camera: Quay video ProRes lên đến 4K, Phóng đại âm thanh
+                                                  Video tua nhanh có chống rung
+                                                  Video tự động lấy nét liên tiếp
+                                                  Thu phóng khi xem, Zoom kỹ thuật số, Xóa phông
+                                                  Tua nhanh thời gian (Time‑lapse)
+                                                  Toàn cảnh (Panorama), Smart HDR 4
+- Camera trước              
+                                Camera trước: Camera góc rộng: 12MP, ƒ/1.8
+- Vi xử lý & đồ họa         
+                                Chipset: Apple M4
+                                GPU: Apple GPU 10 nhân
+                                Loại CPU: CPU 9 lõi với 3 lõi hiệu năng và 6 lõi tiết kiệm điện
+- Giao tiếp & kết nối       
+                                Công nghệ NFC: Không
+                                Jack tai nghe 3.5: Không
+                                GPS: GPS/GNSS, Mạng di động
+- RAM & Lưu trữ
+                                Dung lượng RAM: 8 GB
+                                Bộ nhớ trong: 256 GB
+                                Khe cắm thẻ nhớ: Không
+- Tính năng khác     
+                                Hệ điều hành: iPadOS 17
+- Kích thước & trọng lượng    
+                                Kích thước: 24.97 x 17.75 x 5.3 mm
+                                Trọng lượng: 444 g
+- Pin & công nghệ sạc
+                                Công nghệ sạc: Sạc tối đa 20 W
+                                Cổng sạc: USB Type-C
+- Thông số khác
+                                Tương thích: Apple Pencil Pro, Apple Pencil USB-C 2023
+                                             Bàn phím iPad Pro 11 M4 Apple Magic, Keyboard + Trackpad
+                                Công nghệ - Tiện ích: FaceID, LiDAR Scanner
+                                Tiện ích khác: Apple Pay, Phát âm thanh không gian
+                                Công nghệ âm thanh: Hệ thống âm thanh bốn loa
+- Cổng kêt nối
+                                Wi-Fi: Wi‑Fi 6E (802.11ax) với 4x4 MIMO5
+                                Bluetooth: Bluetooth 5.3
+- Tiện ích khác
+                                Cảm biến vân tay: Cảm biến vân tay cạnh bên
+                                Các loại cảm biến: Cảm biến gia tốc, Cảm biến ánh sáng, La bàn, 
+                                                   Con quay hồi chuyển, Cảm biến áp kế

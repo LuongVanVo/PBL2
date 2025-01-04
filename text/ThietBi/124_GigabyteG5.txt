@@ -1,0 +1,35 @@
+- Vi xử lý & đồ họa
+                                Loại card đồ họa: NVIDIA Geforce RTX 4060 8GB GDDR6
+                                Loại CPU: Intel Core i5-13500H (12 lõi/ 16 luồng, 4.70 GHz, 18 MB)
+- RAM & Ổ cứng
+                                Dung lượng RAM: 16GB
+                                Loại RAM: DDR5 4800Mhz
+                                Số khe RAM: 2 khe (2x 8GB, nâng cấp tối đa 64GB)
+                                Ổ cứng: 512GB SSD PCIe Gen4x4 Slot (1 khe PCIe 3.0)
+- Màn hình
+                                Tần số quét: 144 Hz
+                                Kích thước màn hình: 15.6 inches
+                                Độ phân giải màn hình: 1920 x 1080 pixels (FullHD)
+- Cổng kết nối
+                                Cổng giao tiếp: 1x USB 2.0 (Type-A)
+                                                1x USB3.2 Gen1 (Type-A)
+                                                2x USB3.2 Gen2 (Type-C)
+                                                1x Mini DisplayPort 1.4
+                                                1x Cổng ra HDMI I (with HDCP)
+                                                1x Audio combo jack
+                                                1x Microphone jack
+                                                1x Đầu đọc thẻ SD
+                                Khe đọc thẻ nhớ: Có
+                                Wi-Fi: Intel Wifi
+                                Bluetooth: Có
+- Âm thanh
+                                Công nghệ âm thanh: 2 loa
+- Thiết kế & trọng lượng
+                                Trọng lượng: 2.08 kg
+- Tiện ích khác
+                                Tính năng đặc biệt
+- Tính năng khác
+                                Webcam: HD Camera
+                                Hệ điều hành: Windows 11 Home
+- Pin & công nghệ sạc
+                                Pin: 54WHrs

@@ -1,0 +1,36 @@
+- Công nghệ âm thanh
+                                Công nghệ âm thanh: Trình điều khiển Apple với độ lệch tương phản cao 
+                                                    có thể tùy chỉnh
+                                                    Bộ khuếch đại với độ lệch tương phản cao có thể tùy chỉnh
+                                                    Chủ động khử tiếng ồn
+                                                    Chế độ xuyên âm
+                                                    Nhận Biết Cuộc Hội Thoại
+                                                    Tách Lời Nói
+                                                    Chế độ Âm Thanh Không Gian Cá Nhân
+                                Micro: Có
+- Khả năng kết nối
+                                Bluetooth: 5.3
+- Thời lượng pin - sạc
+                                Dung lượng pin: Tai nghe: Dùng 5h
+                                                Hộp sạc: Dùng 30h
+                                Cổng sạc: USB-C
+                                          Bộ sạc Apple Watch hoặc bộ sạc chuẩn Qi
+                                Thời gian sạc: Hãng không công bố
+- Điều khiển
+                                Phương thức điều khiển: Cảm ứng chạm
+- Kích thước & Trọng lượng
+                                Kích thước: Tai nghe: 30.2 x 18.3 x 18.1 mm
+                                            Hộp sạc: 46.2 x 50.1 x 21.2 mm
+                                Trọng lượng: Tai nghe: 4.3g
+                                             Hộp sạc: 34.7g
+- Thông số kỹ thuật
+                                Dung lượng Pin: Thời gian nghe lên đến 4 giờ với một lần 
+                                                sạc khi bật tính năng Chủ Động Khử Tiếng Ồn
+                                                Thời gian nghe lên đến 5 giờ với một lần 
+                                                sạc khi tắt kiểm soát tiếng ồn
+                                                Thời gian đàm thoại lên đến 4,5 giờ với 
+                                                một lần sạc
+- Chống nước
+                                Chống nước: IP54
+- Thông tin hãng
+                                Hãng sản xuất: Apple

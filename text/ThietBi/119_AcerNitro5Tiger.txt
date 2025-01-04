@@ -1,0 +1,44 @@
+- Vi xử lý & đô họa
+                                Loại card đô họa: NVIDIA GeForce RTX 3060 6GB GDDR6 VRAM
+                                Loại CPU: Intel Core i5-12500H (12 lõi / 16 luồng, 
+                                          4.5 GHz, 18 MB Intel Smart Cache)
+- RAM & Ổ cứng
+                                Dung luong RAM: 16GB
+                                Loại RAM: DDR5 4800MHz
+                                So khe RAM: 2 khe roi (8GB + 8GB, nâng cấp tối đa 32GB)
+                                Ổ cứng: 512GB PCle NVMe SED SSD cắm sẵn
+                                        (nâng cấp tối đa 2TB Gen4, 16 Gb/s, NVMe và 1TB 2.5-inch 5400 RPM)
+- Màn hình
+                                Màn hình cảm ứng: không
+                                Chât liệu tấm nền: Tấm nền IPS
+                                Tần số quét: 165 Hz
+                                Kích thước màn hình: 15.6 inches
+                                Công nghệ màn hình: Độ sáng 300nits, Độ phủ màu 100% sRGB
+                                                    Acer ComfyView LED-backlit TFT LCD
+                                Độ phân giải màn hình: 1920 x 1080 pixels (FullHD)
+- Giao tiếp & kết nối
+                                Loại đèn bàn phím: RGB 4 zone
+                                WebCam: HD webcam (1280 x 720)
+                                Hệ điều hành: Windows 11 Home
+                                Wi-Fi: 802.11a/b/g/n/acR2+ax wireless LAN
+                                Bluetooth: Bluetooth 5.1
+- Công nghệ âm thanh
+                                Công nghệ âm thanh: Hệ thống Loa Acer
+- Thông số khác
+                                Bảo mật: Giải pháp Mô-đun nền tảng đáng tin cậy của phần sụn (TPM)
+                                         Mật khẩu người dùng, người giám sát BIOS
+                                         Khe khóa Kensington
+- Tien ich khac
+                                Tính năng đặc biệt: Ổ cứng SSD, Viền màn hình siêu mỏng, Wi-Fi 6
+- Pin & công nghệ sạc
+                                Pin: 57.5 Wh 4-cell Li-ion battery
+- Thiết kế & trọng lượng
+                                Kích thước: 360.4 x 271.09 x 25.9 mm (W x D x H)
+                                Trọng lượng: 2.5 kg
+- Thông số kỹ thuật
+                                Cổng giao tiếp: 1x USB Type-C
+                                                2x USB 3.2 Gen 2 1x USB 3.2 Gen 1
+                                                1x Ethernet (RJ-45)
+                                                1x HDMI 2.1 hỗ trợ HDCP
+                                                1x Giắc cắm tai nghe/loa 1 x 3.5 mm
+                                                1x Giắc cắm DC cho bộ đổi nguồn AC

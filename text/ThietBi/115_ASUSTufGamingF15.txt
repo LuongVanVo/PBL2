@@ -1,0 +1,40 @@
+- Vi xử lý & đồ họa
+                                    Loại card đồ họa: NVIDIA GeForce RTX 3050 4GB GDDR6 Intel Iris Xe Graphics
+                                    Loại CPU: Intel Core i5-12500H (2.5 GHz, 18M Cache, up to 4.5 GHz, 12 lõi: 4P và 8E)
+- RAM & ổ cứng
+                                    Dung lượng RAM: 8GB
+                                    Loại RAM: DDR4-3200 SO-DIMM
+                                    Số khe RAM: 2 khe SO-DIMM (Nâng cấp tối đa 32GB)
+                                    Ổ cứng: 512GB PCIe 3.0 NVMe M.2 SSD (1 khe SSD M.2 trống nâng cấp tối đa đến 1TB)
+- Màn hình
+                                    Chất liệu tấm nền: tấm nền IPS
+                                    Tần số quét: 144Hz
+                                    Kích thước màn hình: 15.6 Inches
+                                    Công nghệ màn hình: Độ sáng 250nits
+                                                        Độ phủ màu: NTSC 45%, SRGB 62,50%, Adobe 47,34%
+                                                        Màn hình chống chói
+                                                        Adaptive-Sync
+- Giao tiếp & kết nối
+                                    Loại đèn bàn phím: bàn phím Chiclet có đèn nền 1-Zone RGB
+                                                       Aura Sync
+                                    Webcam: 720HD camera
+                                    Hệ điều hành: Windows 11 Home
+                                    Wi-Fi: Wi-Fi 6 (802.11ax) (Dual band) 2*2
+                                    Bluetooth: Bluetooth 5.2
+- Công nghệ âm thanh
+                                    Công nghệ âm thanh: 2 loa, công nghệ khử tiếng ồn AL Doldy Atmos
+                                                        Chứng nhận Hi-Res
+- Thông số khác
+                                    Chất liệu: Vỏ kim loại 
+- Pin & công nghệ sạc
+                                    Pin: 3-cell Li-ion, 52.4Wh
+- Thiết kế & trọng lượng
+                                    Kích thước: 35.4 x 25.1 x 2.24 ~ 2.49 cm (W x D x H)
+                                    Trọng lượng: 2.2 kg 
+- Thông số kỹ thuật
+                                    Cổng giao tiếp: 1x RJ45 LAN
+                                                    1x Thunderbolt 4 hỗ trợ DisplayPort
+                                                    1x USB 3.2 Gen 2 Type-C hỗ trợ DisplayPort / G-SYNC
+                                                    2x USB 3.2 Gen 1 Type-A
+                                                    1x HDMI 2.1 TMDS
+                                                    1x 3.5mm Combo Audio Jack

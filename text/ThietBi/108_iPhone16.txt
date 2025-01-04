@@ -1,0 +1,52 @@
+- Màn hình
+                                Kích thước màn hình: 6.1 inches
+                                Công nghệ màn hình: Super Retina XDR OLED
+                                Độ phân giải màn hình: 2556 x 1179 pixels
+                                Tính năng màn hình: Dynamic Island, màn hình HDR, True Tone
+                                                    Dải màu rộng (P3), Haptic Touch
+                                                    Tỷ lệ tương phản 2.000.000:1
+                                                    Độ sáng tối đa: 1000 nits, 460 ppi
+                                                    Lớp phủ kháng dầu, chống in dấu vân tay
+                                                    Hỗ trợ hiển thị đồng thời nhiều ngôn ngữ và ký tự
+- Camera sau
+                                Camera sau: Camera chính: 48MP, f/1.6, 26mm, Focus Pixels 100%, 
+                                                          hỗ trợ ảnh có độ phân giải siêu cao
+                                            Camera góc siêu rộng: 12MP, ƒ/2.2, 13mm, Focus Pixels 100%
+                                            Độ phóng đại quang học 2x, độ thu nhỏ quang học 2x, 
+                                                                    phạm vi thu phóng quang học 4x
+                                            Độ thu phóng kỹ thuật số: Lên đến 10x
+                                Quay video: 4K@24 fps, 4K@25 fps, 4K@30 fps, 4K@60 fps
+                                            1080p@25 fps, 1080p@30 fps hoặc 1080p@60 fps
+                                Tính năng camera: Flash True Tone, Photonic Engine, Deep Fusion
+                                                  HDR thông minh thế hệ 5, Hiệu ứng chiếu sáng chân dung với 6 chế độ
+                                                  Chế độ ban đêm, chụp ảnh toàn cảnh (Panorama)
+                                                  Phong cách nhiếp ảnh thế hệ mới, ảnh không gian
+- Camera trước
+                                Camera trước: 12MP, f/1.9, tự động lấy nét theo pha, Focus Pixels
+                                Quay video trước: 4K@24 fps, 4K@25 fps, 4K@30 fps, 4K@60 fps
+                                                  1080p@25 fps, 1080p@30 fps hoặc 1080p@60 fps
+- Vi xử lý & đồ họa
+                                Chipset: Apple A18
+                                GPU: GPU 5 lõi mới
+- Giao tiếp & kết nối
+                                Công nghệ NFC: Có
+                                Thẻ SIM: SIM kép (nano-SIM và eSIM) - Hỗ trợ 2 eSIM
+                                Hỗ trợ mạng: 5G
+                                GPS: GPS, GLONASS, Galileo, QZSS và BeiDou
+- RAM & lưu trữ
+                                Bộ nhớ trong: 128GB
+- Pin & công nghệ sạc
+                                Công nghệ sạc: Sạc có dây: Lên đến 25W
+                                               Sạc không dây Qi2: Lên đến 15W
+                                               Sạc không dây Qi: Lên đến 7.5W
+                                Cổng sạc: USB Type-C
+- Tính năng khác
+                                Hệ điều hành: iOS 18
+- Kích thước & trọng lượng
+                                Kích thước: 147.6 x 71.6 x 7.8 mm
+                                Trọng lượng: 170g
+                                Chất liệu mặt lưng: Kính
+                                Chất liệu khung viền: Nhôm
+- Thông số khác
+                                Chỉ số kháng bụi, nước: Đạt mức IP68 theo tiêu chuẩn IEC 60529
+                                Công nghệ - Tiện ích: FaceID, SharePlay

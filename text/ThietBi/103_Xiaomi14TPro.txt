@@ -1,0 +1,46 @@
+- Màn hình
+                                Kích thước màn hình: 6.67 Inches
+                                Công nghệ màn hình: AMOLED
+                                Độ phân giải màn hình: 1220 x 2712 pixels
+                                Tính năng màn hình: 144Hz, 446 ppi, 4000 nits
+                                                    Độ sâu màu 12 bit
+                                                    Làm mờ PWM lên đến 3840
+                                                    HDR10+, Dolby Vision
+                                                    Mặt sau cong 3D
+- Camera sau
+                                Camera sau: Máy ảnh chính: 50MP, 23mm, f/1.6
+                                            Máy ảnh góc siêu rộng: 12MP, 15mm, f/2.2
+                                            Máy ảnh tele: 50MP, 60mm, f/2.0
+                                Tính năng camera: Chế độ quay phim
+                                                  MasterCinema
+                                                  Chế độ đạo diễn
+                                                  Hình ảnh Leica đích thực
+                                                  Thấu kính quang học Leica Sumilux
+- Camera trước
+                                Camera trước: 32MP, f/2.0
+                                              Độ dài tiêu cự tương đương 25mm
+                                              FOV 80.8
+                                              Chế độ ban đêm
+                                              HDR
+                                              Tính năng chụp ảnh bằng lòng bàn tay
+- Vi xử lý & đồ họa
+                                Chipset: MediaTek Dimensity 9300+
+                                Loại CPU: 1 x Cortex-X4, tối đa 3.4GHz
+                                          3 x Cortex-X4, lên đến 2.85GHz
+                                          4 x Cortex-A720, lên đến 2.0GHz
+                                GPU: Immortalis-G720 MC12
+- Giao tiếp & kết nối
+                                Công nghệ NFC: Có
+                                Thẻ SIM: SIM kép (nano-SIM và eSIM) - Hỗ trợ 2 eSIM
+                                Hỗ trợ mạng: 5G
+                                WiFi: Wi-Fi 7
+                                Bluetooth: v5.4
+- RAM & lưu trữ
+                                Dung lượng RAM: 12GB
+                                Bộ nhớ trong: 512GB
+- Pin & công nghệ sạc
+                                Pin: 5000mAh
+                                Công nghệ sạc: HyperCharge 120W, HyperCharge không dây 50W
+- Thiết kế & trọng lượng
+                                Kích thước & trọng lượng: 160.4 x 75.1 x 8.39 mm; 209g
+                                Chất liệu khung viền: Hợp kim

@@ -1,0 +1,8 @@
+- Thiết kế tai nghe dạng chữ C cùng công nghệ nghe mở tai vô
+cùng độc đáo
+- Trình điều khiển 10.8mm mang đến âm thanh chất lượng tuyệt
+vời, ấn tượng
+- Micro thông minh tích hợp thuật toán DNN cho trải nghiệm đàm
+thoại thú vị
+- Thời lượng pin cực tốt, hoạt động lên đến 3 ngày liên tục chỉ
+với một lần sạc

@@ -1,0 +1,40 @@
+- Màn hình
+                                Kích thước màn hình: 6.78 Inches
+                                Công nghệ màn hình: LCD
+                                Độ phân giải màn hình: 1080 x 2460 pixels
+                                Tính năng màn hình: 120Hz
+- Camera sau
+                                Camera sau: 50MP + AI
+                                Quay video: 2K@30fps, 1080p@60fps, 1080p@30fps, 720p@30fps
+- Camera trước
+                                Camera trước: 8MP
+                                Quay video: 2K@30fps, 1080p@60fps, 1080p@30fps, 720p@30fps
+- Vi xử lý & đồ họa
+                                Chipset: MediaTek Helio G99 Ultimate
+                                Loại CPU: 2 x A76 lên đến 2.2GHz, 6 x A55 lên đến 2GHz
+                                GPU: ARM Mali-G57
+- Giao tiếp & kết nối
+                                Công nghệ NFC: Có
+                                Thẻ SIM: 2 Nano-SIM
+                                Jack tai nghe 3.5mm: Có
+                                Hỗ trợ mạng: 4G
+                                GPS: GPS
+- RAM & lưu trữ
+                                Dung lượng RAM: 8GB
+                                Bộ nhớ trong: 128GB
+- Pin & công nghệ sạc
+                                Pin: 7000mAh
+                                Cổng sạc: USB Type-C
+- Tính năng khác
+                                Hệ điều hành: Android 14
+- Thiết kế & trọng lượng
+                                Kích thước: 168.61 x 76.61 x 9.23 mm
+                                Trọng lượng: 225g
+- Tiện ích khác
+                                Các loại cảm biến: Cảm biến tiệm cận, Cảm biến ánh sáng
+                                                   La bàn, Cảm biến trọng lực
+- Cổng kết nối
+                                Wi-Fi: 802.11a/b/g/n/ac
+                                Bluetooth: v5.3
+- Thông số khác
+                                Công nghệ âm thanh: Loa kép với Dolby Atmos

@@ -1,0 +1,12 @@
+Graphics/Picture/iPhone15Promax.png
+Graphics/Picture/samsungS24Ultra.png
+Graphics/Picture/xiaomi14TPro.png
+Graphics/Picture/OPPOReno10pro+.jpg
+Graphics/Picture/TecnoPova6Neo.png
+Graphics/Picture/SamsungZFlip6.jpg
+Graphics/Picture/OPPOFindX5Pro.jpg
+Graphics/Picture/iPhone16.png
+Graphics/Picture/SamsungS24FE.jpg
+Graphics/Picture/XiaomiRedmiNote13ProPlus.png
+Graphics/Picture/realme13+5G.jpg
+Graphics/Picture/iPhone13.jpg

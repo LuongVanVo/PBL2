@@ -1,0 +1,46 @@
+- Màn hình
+                                Kích thước màn hình: 12.2 inches
+                                Công nghệ màn hình: Tandem OLED PaperMatte
+                                Độ phân giải màn hình: 2800 x 1840 pixels
+                                Tính năng màn hình: 1.07 tỷ màu, 2000 nits, gam màu rộng P3, 274 ppi
+                                                    Độ tương phản 2,000,000:1
+                                                    Tốc Độ Làm Mới Màn Hình 144 Hz
+- Camera sau
+                                Camera sau: Camera chính: 13 MP, f/1.8, AF
+                                            Camera góc rộng: 8 MP, f/2.2, FF, LED flash
+                                Quay video: 1080p @ 30fps
+                                Tính năng camera: Tua nhanh thời gian, Ống kính góc rộng, Khẩu độ
+                                                  Ban đêm, Chân dung, Chuyên nghiệp, Quay chậm
+                                                  Toàn cảnh, Bộ lọc, Nhãn dán, Tài liệu, Ảnh động
+                                                  Ghi lại nụ cười, Điều khiển bằng âm thanh
+                                                  Hẹn giờ, Chụp liên tục
+- Camera trước
+                                Camera trước: f/2.0, FF
+- RAM & lưu trữ
+                                Dung lượng RAM: 12 GB
+                                Bộ nhớ trong: 256 GB
+- Pin & công nghệ sạc
+                                Pin: 10100 mAh
+                                Công nghệ sạc: Bộ sạc tiêu chuẩn hỗ trợ sạc nhanh HUAWEI 
+                                               SuperCharge, lên đến 20V/5 A
+                                Cổng sạc: USB Type-C
+- Tính năng khác
+                                Hệ điều hành: HarmonyOS 4.2
+- Kích thước & Trọng lượng
+                                Kích thước: 182.53 x 271.25 x 5.5 mm
+                                Trọng lượng: 508 g
+- Tiện ích khác
+                                Cảm biến vân tay: Cảm biến vân tay cạnh bên
+                                Các loại cảm biến: Cảm biến gia tốc, Cảm biến ánh sáng, 
+                                                   La bàn, Con quay hồi chuyển, Cảm biến trọng lực
+- Cổng kết nối
+                                Wi-Fi: 2.4 GHz và 5 GHz
+                                Bluetooth: v5.2
+- Giao tiếp & Kết nối
+                                GPS: GPS/GLONASS/BeiDou/Galileo/QZSS
+- Thông số khác
+                                Công nghệ - Tiện ích: Ứng Dụng GoPaint
+                                                      Công nghệ NearLink
+- Tiện ích khác
+                                Tiện ích khác: Bàn phím trượt HUAWEI Glide
+                                Công nghệ âm thanh: 4 loa, HUAWEI SOUND

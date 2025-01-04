@@ -1,0 +1,45 @@
+- Thông số khác
+                                Hãng sản xuất: ASUS
+- Bộ xử lý & Đồ họa
+                                Loại card đồ họa: Intel® Arc Graphics
+                                Loại CPU: Intel® Core™ Ultra 5 125H 1.2 GHz 
+                                          (18MB Cache, tối đa 4.5 GHz, 14 nhân, 
+                                          18 luồng); Intel® AI Boost NPU
+- Bộ nhớ RAM, Ổ cứng
+                                Dung lượng RAM: 16GB
+                                Loại RAM: LPDDR5X on board
+                                Số khe RAM: Không hỗ trợ nâng cấp
+                                Ổ cứng: 512GB M.2 NVMe PCIe 4.0 SSD
+- Màn hình
+                                Tần số quét: Tần số quét 120Hz
+                                Chất liệu tấm nền: Tấm nền Oled
+                                Công nghệ màn hình: Tỷ lệ 16:10
+                                                    Độ sáng tối đa 600 nits, bao phủ 100% DCI-P3
+                                                    Đạt chuẩn DisplayHDR™ True Black 600
+                                Kích thước màn hình: 14 inches
+                                Độ phân giải màn hình: 2880 x 1800 pixels
+- Âm thanh
+                                Công nghệ âm thanh: Smart Amp harman/kardon
+- Kích thước & Trọng lượng
+                                Chất liệu: Vỏ kim loại
+                                Kích thước: 31.24 x 22.01 x 1.49 ~ 1.49 cm
+                                Trọng lượng: 1.20 kg
+- Tiện ích khác
+                                Tính năng đặc biệt: Wi-Fi 6
+- Tính năng khác
+                                Loại đèn bàn phím: Backlit keyboard
+                                Bảo mật: McAfee® 30 days free trial
+                                         IR webcam with Windows Hello support
+                                         McAfee®
+                                         Trusted Platform Module (TPM) 2.0
+                                Webcam: FHD IR / 3DNR / ACS camera - nhận diện khuôn mặt
+                                Hệ điều hành: Windows 11 Home
+- Pin & Công nghệ sạc
+                                Pin: 75WHrs, 2S2P, 4-cell Li-ion
+- Cổng kết nối
+                                Wi-Fi: Wi-Fi 6E(802.11ax) (Dual band) 2*2
+                                Bluetooth: Bluetooth® 5.3
+                                Cổng giao tiếp: 2 x Thunderbolt™ 4 Type-C®
+                                                1 x USB 3.2 Gen 1 Type-A
+                                                1 x HDMI® 2.1 (TMDS)
+                                                1 x Audio jack

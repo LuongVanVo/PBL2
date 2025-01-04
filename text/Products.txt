@@ -1,0 +1,48 @@
+101|iPhone 15 Pro Max|Dien Thoai|1158.46|Apple|iOS|52
+102|Samsung Galaxy S24 Ultra|Dien Thoai|1044.15|Samsung|Android|30
+103|Xiaomi 14T Pro|Dien Thoai|669.69|Xiaomi|Android|32
+104|OPPO Reno10 Pro+|Dien Thoai|551.44|OPPO|Android|28
+105|Tecno Pova 6 Neo|Dien Thoai|161.66|Tecno|Android|29
+106|Samsung Galaxy Z Flip 6|Dien Thoai|1066.8|Samsung|Android|24
+107|OPPO Find X5 Pro|Dien Thoai|632.02|OPPO|Android|23
+108|iPhone 16|Dien Thoai|877.08|Apple|iOS|35
+113|Lenovo LOQ 15IAX9 83GS001RVN|Laptop|839.18|Lenovo|Windows|27
+114|MSI Gaming GF63 12VE-460VN|Laptop|709.11|MSI|Windows|29
+115|ASUS TUF Gaming F15 FX507ZC4-HN074W|Laptop|748.52|ASUS|windows|32
+116|ASUS Vivobook 14 OLED A1405ZA-KM263W|Laptop|720.93|ASUS|Windows|31
+117|HP Gaming Victus 15 FB1023AX 94F20PA|Laptop|732.76|HP|Windows|29
+118|Macbook Air M2 2022 8GB 256GB|Laptop|957.43|Apple|macOS|24
+119|Acer Nitro 5 Tiger AN515-58-50D2|Laptop|906.19|Acer|Windows|34
+120|Dell Inspiron 15 3520|Laptop|649.98|Dell|Windows|33
+109|Samsung Galaxy S24 FE 5G|Dien Thoai|668.77|Samsung|Android|28
+121|Huawei Matebook 14|Laptop|672.21|Huawei|Windows|33
+110|Xiaomi Redmi Note 13 Pro Plus 5G|Dien Thoai|363.31|Xiaomi|Android|33
+122|Lenovo Legion 5 Pro|Laptop|1575.03|Lenovo|Windows|25
+111|realme 13+ 5G|Dien Thoai|365.89|realme|Android|30
+123|Acer Gaming Aspire 7|Laptop|551|Acer|Windows|34
+112|iPhone 13 128GB|Dien Thoai|526.7|Apple|iOS|35
+124|Gigabyte G5 KF5-53VN353SH|Laptop|943.37|Gigabyte|Windows|15
+125|Apple AirPods 4|Tai nghe|184.43|Apple|tvOS|37
+126|Samsung Galaxy Buds2 Pro|Tai nghe|101.85|Samsung|KCB|34
+127|Sony WH-1000XM5|Tai nghe|255.21|Sony|KCB|33
+128|JBL Tour Pro 2|Tai nghe|168.7|JBL|KCB|28
+129|Apple Airpods Pro 2 2023|Tai nghe|219.91|Apple|tvOS|40
+130|OPPO Enco Buds 2 Pro|Tai nghe|42.88|OPPO|KCB|49
+131|Marshall Major 5|Tai nghe|168.77|Marshall|KCB|17
+132|JBL Live 770NC|Tai nghe|160.9|JBL|KCB|23
+133|HUAWEI FreeClip|Tai nghe|145.17|Huawei|KCB|25
+134|Sony WF-1000XM5|Tai nghe|215.98|Sony|KCB|32
+135|Airpods Max|Tai nghe|479.56|Apple|KCB|17
+136|Sony INZONE H5 WH-G500|Tai nghe|101.89|Sony|KCB|30
+137|iPad Pro M4 11 inch Wifi|Tablet|1085.79|Apple|iPadOS|23
+138|Samsung Galaxy Tab S9 FE Plus WIFI|Tablet|507.28|Samsung|Android|30
+139|iPad Air 6 M2 11 inch 128GB|Tablet|585.99|Apple|iPadOS|25
+140|Xiaomi Pad 6S Pro Wifi|Tablet|511.22|Xiaomi|HyperOS|22
+141|Huawei Matepad 11.5"S|Tablet|530.89|Huawei|HarmonyOS|30
+142|iPad mini 6 WiFi|Tablet|445.63|Apple|iPadOS|32
+143|Xiaomi Redmi Pad Pro Wifi|Tablet|271.96|Xiaomi|HyerOS|37
+144|iPad Gen 10 10.9 inch Wifi|Tablet|339.06|Apple|iPadOS|41
+145|iPad Pro 11 2021 M1 Wifi|Tablet|749.56|Apple|iPadOS|33
+146|OPPO Pad 2 WiFi|Tablet|382.47|OPPO|Android|28
+147|iPad Mini 7 2024 Wifi|Tablet|650.88|Apple|iPadOS|41
+148|Samsung Galaxy Tab S9 Wifi|Tablet|591.67|Samsung|Android|50

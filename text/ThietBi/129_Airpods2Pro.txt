@@ -1,0 +1,24 @@
+- Công nghệ âm thanh
+                                Công nghệ âm thanh: Active Noise Cancellation
+                                                    Chip Apple H2
+                                                    Adaptive EQ
+                                Micro: Có
+- Khả năng kết nối
+                                Bluetooth: 5.3
+- Thời lượng pin - sạc
+                                Dung lượng pin: Tai nghe: Dùng 6 giờ
+                                                Hộp sạc: Dùng 30 giờ
+                                Cổng sạc: Sạc MagSafe
+                                          USB-C
+                                Thời gian sạc: Hãng không công bố
+- Điều khiển
+                                Phương thức điều khiển: Cảm ứng chạm
+- Kích thước & Trọng lượng
+                                Kích thước: Tai nghe: 30.9 x 21.8 x 24 mm
+                                            Hộp sạc: 45.2 x 60.6 x 21.7mm
+                                Trọng lượng: Tai nghe: 5.3g
+                                             Hộp sạc: 50.8g
+- Thông tin hãng
+                                Hãng sản xuất: Apple
+- Màn hình
+                                Loại màn hình: Màn hình

@@ -1,0 +1,21 @@
+- Công nghệ âm thanh
+                                Micro: Có
+- Khả năng kết nối
+                                Số thiết bị kết nối cùng lúc: 1
+                                Bluetooth: Có
+                                Ứng dụng kết nối: AI Life
+- Thời lượng pin - sạc
+                                Dung lượng pin: Tai nghe: 8 giờ
+                                                Hộp sạc: 36 giờ
+                                Cổng sạc: Type C
+                                Thời gian sạc: Sạc nhanh 10 phút nghe được 3 giờ
+- Điều khiển 
+                                Phương thức điều khiển: Cảm ứng chạm
+                                Thao tác điều khiển: Nhấn đúp: Phát/Tạm dừng âm thanh hoặc 
+                                                               trả lời/kết thúc cuộc gọi
+                                                     Nhấn ba lần: Phát bản nhạc tiếp theo
+- Kích thước & Trọng lượng
+                                Trọng lượng: Tai nghe: 5.6 g ± 0.3 g
+                                             Hộp sạc: 45.5 g ± 2 g
+- Thông tin hãng
+                                Hãng sản xuất: Huawei

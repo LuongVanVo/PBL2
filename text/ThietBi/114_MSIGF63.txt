@@ -1,0 +1,40 @@
+- Vi xử lý & đồ họa
+                                Loại card đồ họa: NVIDIA GeForce RTX 4050 6 GB
+                                Loại CPU: Intel Core i5 Alder Lake - 12450H 
+                                            (8 lõi / 12 luồng, 2.00 GHz, Turbo Boost 4.4 GHz, 12MB)
+- RAM & Ổ cứng
+                                Dung lượng RAM: 8GB
+                                Loại RAM: DDR4 3200 MHz
+                                Số khe RAM: 2 khe (1 khe 8GB + 1 khe rời, hỗ trợ nâng cấp tối đa 64GB)
+                                Ổ cứng: 512GB GB SSD NVMe PCle GEN 4.0 Hỗ trợ khe cắm 
+                                        HDD SATA 2.5 inch mở rộng
+- Màn hình
+                                Chất liệu tấm nền: tấm nền IPS
+                                Tần số quét: 144Hz
+                                Kích thước màn hình: 15.6 Inches
+                                Công nghệ màn hình: Màn hình chống chói
+                                Độ phân giải màn hình: 1920 x 1080 pixels (FullHD)
+- Giao tiếp & kết nối
+                                Loại đèn bàn phím: Đơn sắc - Màu đỏ
+                                Webcam: HD webcam
+                                Khe đọc thẻ nhớ: Không
+                                Hệ điều hành: Windows 11 Home SL
+                                Wi-Fi: Wi-Fi 6 (802.11ax)
+                                Bluetooth: Bluetooth 5.2
+- Công nghệ âm thanh
+                                Công nghệ âm thanh: Hi-Res Audio Nahimic Audio
+- Thông số khác
+                                Chất liệu: Vỏ kim loại
+- Tiện ích khác
+                                Tính năng đặc biệt: Ổ cứng SSD, Wi-Fi 6
+- Pin & công nghệ sạc
+                                Pin: 3-cell Li-ion, 52.4Wh
+- Thiết kế & trọng lượng
+                                Kích thước: 359 x 254 x 21.5 mm (Dài x Rộng x Dày)
+                                Trọng lượng: 1,85 kg 
+- Thông số kỹ thuật
+                                Cổng giao tiếp: 1x HDMI
+                                                1x Jack tai nghe 3.5mm
+                                                3x USB 3.2 & USB 2.0
+                                                1x USB Type-C (hỗ trợ USB 3.2, DisplayPort)
+                                                1x LAN (RJ45)

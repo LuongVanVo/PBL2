@@ -1,0 +1,46 @@
+- Màn hình                  
+                                Kích thước màn hình: 11 inches
+                                Công nghệ màn hình: IPS LCD
+                                Độ phân giải màn hình: 2048 x 2732 pixels
+                                Tính năng màn hình: Tần số quét 120Hz
+                                                    Tỉ lệ tương phản 1000000:1
+                                                    Độ sáng 600 nit
+                                                    Dải màu P3
+                                                    Công nghệ True-Tone
+- Camera sau                
+                                Camera sau: 12MP góc rộng, 10MP góc siêu rộng
+                                Quay video: 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; 
+                                            Chống rung EIS
+- Camera trước              
+                                Camera trước: 12MP góc siêu rộng 122 độ
+                                Quay video trước: 1080p@25/30/60fps, Chống rung EIS
+- Vi xử lý & đồ họa                
+                                Chipset: Apple M1 8 nhân
+                                GPU: 8 nhân GPU
+                                Loại CPU: 8 nhân CPU
+- Giao tiếp & kết nối       
+                                Hỗ trợ mạng: 5G
+                                GPS: A-GPS, GLONASS, iBeacon
+- RAM & Lưu trữ
+                                Dung lượng RAM: 8 GB
+                                Bộ nhớ trong: 128 GB
+                                Khe cắm thẻ nhớ: Không
+- Tính năng khác     
+                                Hệ điều hành: iPadOS
+- Kích thước & trọng lượng    
+                                Kích thước: 247.6 x 178.5 x 5.9 mm
+                                Trọng lượng: 466 g
+- Thiết kế & trọng lượng
+                                Chất liệu mặt lưng: Kim loại
+                                Chất liệu khung viền: Kim loại
+- Pin & công nghệ sạc
+                                Pin: 7538mAh
+                                Công nghệ sạc: Sạc nhanh 18W
+                                Cổng sạc: USB Type-C
+- Cổng kêt nối
+                                Wi-Fi: Wi-Fi 6
+                                Bluetooth: v5.0
+- Tiện ích khác
+                                Các loại cảm biến: Cảm biến gia tốc, Cảm biến tiệm cận, 
+                                                   Cảm biến ánh sáng, La bàn, Con quay hồi chuyển,
+                                                   Cảm biến áp kế

@@ -1,0 +1,44 @@
+- Màn hình                  
+                                Kích thước màn hình: 12.4 inches
+                                Độ phân giải màn hình: 2560 x 1600 (WQXGA)
+                                Tính năng màn hình: Tần số quét 90Hz, Gam màu DCI-P3
+- Camera sau                
+                                Camera sau: 8 MP + 8 MP (góc siêu rộng)
+                                Quay video: UHD 4K (3840 x 2160)@30fps
+                                Tính năng camera: Tự động lấy nét
+- Camera trước              
+                                Camera trước: 12 MP (góc siêu rộng)
+- Vi xử lý & đồ họa         
+                                Chipset: Exynos 1380
+- Giao tiếp & kết nối       
+                                Công nghệ NFC: Không
+                                Jack tai nghe: Không
+                                GPS: GPS, Glonass, Beidou, Galileo, QZSS
+- RAM & Lưu trữ
+                                Dung lượng RAM: 12 GB
+                                Bộ nhớ trong: 256 GB
+                                Khe cắm thẻ nhớ: MicroSD (tối đa 1TB)
+- Pin & công nghệ sạc      
+                                Pin: 10,090 mAh
+                                Công nghệ sạc: Sạc nhanh 15W
+                                Cổng sạc: USB Type-C
+- Tính năng khác
+                                Hệ điều hành: Android 13
+- Kích thước & trọng lượng    
+                                Kích thước: 285.4 x 185.4 x 6.5 mm
+                                Trọng lượng: 627 g
+                                Chất liệu mặt lưng: Kim loại
+                                Chất liệu khung viền: Kim loại
+- Thông số khác
+                                Tương thích: Hỗ trợ bút S Pen (đi kèm trong hộp)
+                                Chỉ số kháng nước, bụi: IP68
+                                Công nghệ - Tiện ích: Vân tay (kết hợp nút nguồn)
+                                Tiện ích khác: Hỗ trợ bút S Pen
+                                Công nghệ âm thanh: Loa kép AKG
+- Cổng kết nối  
+                                Wi-Fi: 802.11 a/b/g/n/ac/ax 2.4G+5GHz
+                                Bluetooth: v5.3
+- Tiện ích khác
+                                Cảm biến vân tay: Cảm biến vân tay cạnh bên
+                                Các loại cảm biến: Cảm biến gia tốc, Cảm biến ánh sáng, La bàn, 
+                                                   Con quay hồi chuyển, Cảm biến trọng lực

@@ -1,0 +1,12 @@
+Graphics/Picture/iPadProM4.png
+Graphics/Picture/SamsungTabS9FE+.jpg
+Graphics/Picture/iPadAir6M2.png
+Graphics/Picture/XiaomiPad6SPro.jpg
+Graphics/Picture/HuaweiMatepad.png
+Graphics/Picture/iPadMini6.png
+Graphics/Picture/XiaomiRedmiPadPro.jpg
+Graphics/Picture/iPadGen10.jpg
+Graphics/Picture/iPadProM1.jpg
+Graphics/Picture/OPPOPad2.jpeg
+Graphics/Picture/iPadMini7.png
+Graphics/Picture/SamsungTabS9.jpg

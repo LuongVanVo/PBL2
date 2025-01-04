@@ -1,0 +1,233 @@
+*
+27-10-2024|2|100001|K92/63 Đinh Tiên Hoàng, Đà Nẵng|551.44
+104|OPPO Reno10 Pro+|Dien Thoai|551.44|OPPO|Android|1
+*
+*
+27-10-2024|2|100004|124 An Dương Vương|6164.51
+102|Samsung Galaxy S24 Ultra|Dien Thoai|1044.15|Samsung|Android|1
+113|Lenovo LOQ 15IAX9 83GS001RVN|Laptop|839.18|Lenovo|Windows|1
+114|MSI Gaming GF63 12VE-460VN|Laptop|709.11|MSI|Windows|1
+118|MacBook Air M2 2022 8GB 256GB|Laptop|957.43|Apple|macOS|1
+119|Acer Nitro 5 Tiger AN515-58-50D2|Laptop|906.19|Acer|Windows|1
+101|iPhone 15 Pro Max|Dien Thoai|1158.46|Apple|iOS|1
+120|Dell Inspiron 15 3520|Laptop|649.98|Dell|Windows|1
+*
+*
+31-10-2024|3|100005|K58/32 Ngô Sỹ Liên, Đà Nẵng|1108.47
+101|iPhone 15 Pro Max|Dien Thoai|1158.46|Apple|iOS|1
+*
+*
+01-11-2024|2|100006|48A Đồng Trí 2, Đà Nẵng|161.66
+105|Tecno Pova 6 Neo|Dien Thoai|161.66|Tecno|Android|1
+*
+*
+01-11-2024|2|100007|30 Nguyễn Hữu Thọ, Đà Nẵng|2575.9
+106|Samsung Galaxy Z Flip 6|Dien Thoai|1066.8|Samsung|Android|1
+107|OPPO Find X5 Pro|Dien Thoai|632.02|OPPO|Android|2
+108|iPhone 16|Dien Thoai|877.08|Apple|iOS|2
+*
+*
+06-11-2024|1|100008|124 Tôn Đản, Đà Nẵng|668.77
+109|Samsung Galaxy S24 FE 5G|Dien Thoai|668.77|Samsung|Android|1
+*
+*
+06-11-2024|3|100009|150 Nguyễn Hoàng, Đà Nẵng|877.08
+108|iPhone 16|Dien Thoai|877.08|Apple|iOS|1
+*
+*
+06-11-2024|3|100010|45 Hùng Vương, Đà Nẵng|547.44
+104|OPPO Reno10 Pro+|Dien Thoai|551.44|OPPO|Android|1
+*
+*
+07-11-2024|3|100011|56 Trần Cao Vân|957.43
+118|MacBook Air M2 2022 8GB 256GB|Laptop|957.43|Apple|macOS|1
+*
+*
+07-11-2024|1|100012|26 Hùng Vương, thành phố Huế|732.76
+117|HP Gaming Victus 15 FB1023AX 94F20PA|Laptop|732.76|Laptop|Windows|1
+*
+*
+08-11-2024|1|100013|733 Tôn Đức Thắng, Đà Nẵng|1724.46
+109|Samsung Galaxy S24 FE 5G|Dien Thoai|668.77|Samsung|Android|1
+106|Samsung Galaxy Z Flip 6|Dien Thoai|1066.8|Samsung|Android|1
+*
+*
+09-11-2024|1|100014|54 Nguyễn Lương Bằng, Đà Nẵng|1678.36
+118|Macbook Air M2 2022 8GB 256GB|Laptop|957.43|Apple|macOS|1
+116|ASUS Vivobook 14 OLED A1405ZA-KM263W|Laptop|720.93|ASUS|Windows|1
+*
+*
+09-11-2024|2|100015|82/103/4 Nguyễn Lương Bằng, Đà Nẵng|2024.23
+118|Macbook Air M2 2022 8GB 256GB|Laptop|957.43|Apple|macOS|1
+106|Samsung Galaxy Z Flip 6|Dien Thoai|1066.8|Samsung|Android|1
+*
+*
+10-11-2024|5|100016|k82/103 Nguyễn Lương Bằng, Đà Nẵng|1549.29
+121|Huawei Matebook 14|Laptop|672.21|Huawei|Windows|1
+108|iPhone 16|Dien Thoai|877.08|Apple|iOS|1
+*
+*
+10-11-2024|2|100017|87 Nguyễn Phước Thái, Đà Nẵng|1066.8
+106|Samsung Galaxy Z Flip 6|Dien Thoai|1066.8|Samsung|Android|1
+*
+*
+11-11-2024|5|100018|270 Tôn Đức Thắng, Đà Nẵng|363.31
+110|Xiaomi Redmi Note 13 Pro Plus 5G|Dien Thoai|363.31|Xiaomi|Android|1
+*
+*
+15-11-2024|3|100019|24 Đường 3/2, Đà Nẵng|877.08
+108|iPhone 16|Dien Thoai|877.08|Apple|iOS|1
+*
+*
+15-11-2024|5|100020|124 Phan Đăng Lưu, Đà Nẵng|363.31
+110|Xiaomi Redmi Note 13 Pro Plus 5G|Dien Thoai|363.31|Xiaomi|Android|1
+*
+*
+16-11-2024|1|100021|54 Nguyễn Lương Bằng|2202.61
+101|iPhone 15 Pro Max|Dien Thoai|1158.46|Apple|iOS|1
+102|Samsung Galaxy S24 Ultra|Dien Thoai|1044.15|Samsung|Android|1
+*
+*
+19-11-2024|7|100022|30 Đường K20, Đà Nẵng|2233.8
+122|Lenovo Legion 5 Pro|Laptop|1575.03|Lenovo|Windows|1
+109|Samsung Galaxy S24 FE 5G|Dien Thoai|668.77|Samsung|Android|1
+*
+*
+20-11-2024|1|100023|48 Ngô Sĩ Liên, Đà Nẵng|1088.65
+117|HP Gaming Victus 15 FB1023AX 94F20PA|Laptop|732.76|HP|Windows|1
+111|realme 13+ 5G|Dien Thoai|365.89|realme|Android|1
+*
+*
+21-11-2024|3|100024|78 Ngô Quyền, Đà Nẵng|1678.36
+116|ASUS Vivobook 14 OLED A1405ZA-KM263W|Laptop|720.93|ASUS|Windows|1
+118|Macbook Air M2 2022 8GB 256GB|Laptop|957.43|Apple|macOS|1
+*
+*
+21-11-2024|1|100025|430 Điện Biên Phủ, Đà Nẵng|632.02
+107|OPPO Find X5 Pro|Dien Thoai|632.02|OPPO|Android|1
+*
+*
+22-11-2024|7|100026|178 Trần Hưng Đạo, Đà Nẵng|1158.46
+101|iPhone 15 Pro Max|Dien Thoai|1158.46|Apple|iOS|1
+*
+*
+22-11-2024|6|100027|97 Hàm Nghi, Đà Nẵng|526.7
+112|iPhone 13 128GB|Dien Thoai|526.7|Apple|iOS|2
+*
+*
+22-11-2024|8|100028|01 Hoàng Thị Loan, Đà Nẵng|526.7
+112|iPhone 13 128GB|Dien Thoai|526.7|Apple|iOS|1
+*
+*
+22-11-2024|2|100029|58 Đống Đa, Đà Nẵng|1158.46
+101|iPhone 15 Pro Max|Dien Thoai|1158.46|Apple|iOS|1
+*
+*
+23-11-2024|5|100030|135 Nguyễn Thanh Nghị, Đà Nẵng|734.77
+135|Airpods Max|Tai nghe|479.56|Apple|KCB|1
+127|Sony WH-1000XM5|Tai nghe|255.21|Sony|KCB|1
+*
+*
+23-11-2024|8|100031|110 Hoàng Văn Thụ, Đà Nẵng|101.89
+136|Sony INZONE H5 WH-G500|Tai nghe|101.89|Sony|KCB|2
+*
+*
+23-11-2024|2|100032|12 Nguyễn Chí Thanh, Đà Nẵng|227.31
+130|OPPO Enco Buds 2 Pro|Tai nghe|42.88|OPPO|KCB|1
+125|Apple AirPods 4|Tai nghe|184.43|Apple|tvOS|1
+*
+*
+26-11-2024|1|100033|thị trấn Ái Nghĩa, Đại Lộc, Quảng Nam|1425.88
+135|Airpods Max|Tai nghe|479.56|Apple|KCB|1
+118|Macbook Air M2 2022 8GB 256GB|Laptop|957.43|Apple|macOS|1
+*
+*
+27-11-2024|7|100034|23 Phan Thành Tài, Đà Nẵng|707.63
+112|iPhone 13 128GB|Dien Thoai|526.7|Apple|iOS|1
+125|Apple AirPods 4|Tai nghe|184.43|Apple|tvOS|1
+*
+*
+27-11-2024|6|100035|01 Thanh Long, Đà Nẵng|1034.15
+102|Samsung Galaxy S24 Ultra|Dien Thoai|1044.15|Samsung|Android|1
+*
+*
+27-11-2024|9|100036|45 Phạm Như Xương, Đà Nẵng|1083.29
+137|iPad Pro M4 11 inch Wifi|Tablet|1085.79|Apple|iPadOS|1
+*
+*
+28-11-2024|11|100037|141/03 Hoàng Thị Loan, Đà Nẵng|746.06
+145|iPad Pro 11 2021 M1 Wifi|Tablet|749.56|Apple|iPadOS|1
+*
+*
+28-11-2024|12|100038|98 Nguyễn Lương Bằng, Đà Nẵng|581.99
+139|iPad Air 6 M2 11 inch 128GB|Tablet|585.99|Apple|iPadOS|1
+*
+*
+29-11-2024|10|100039|55 Lý Thái Tông, Đà Nẵng|921.69
+142|iPad mini 6 WiFi|Tablet|445.63|Apple|iPadOS|1
+135|Airpods Max|Tai nghe|479.56|Apple|KCB|1
+*
+*
+29-11-2024|2|100040|10 Hồ Tùng Mậu, Đà Nẵng|668.77
+109|Samsung Galaxy S24 FE 5G|Dien Thoai|668.77|Samsung|Android|1
+*
+*
+29-11-2024|2|100041|10 Hồ Tùng Mậu, Đà Nẵng|168.7
+128|JBL Tour Pro 2|Tai nghe|168.7|JBL|KCB|1
+*
+*
+29-11-2024|2|100042|14 Phan Châu Trinh, Đà Nẵng|101.89
+136|Sony INZONE H5 WH-G500|Tai nghe|101.89|Sony|KCB|1
+*
+*
+02-12-2024|13|100043|27 Nguyễn Văn Thoại, Đà Nẵng|1460.69
+112|iPhone 13 128GB|Dien Thoai|526.7|Apple|iOS|1
+125|Apple AirPods 4|Tai nghe|184.43|Apple|tvOS|1
+145|iPad Pro 11 2021 M1 Wifi|Tablet|749.56|Apple|iPadOS|1
+*
+*
+02-12-2024|11|100044|184/01 Hoàng Thị Loan, Đà Nẵng|255.21
+127|Sony WH-1000XM5|Tai nghe|255.21|Sony|KCB|1
+*
+*
+02-12-2024|14|100045|60 Ngô Sỹ Liên, Đà Nẵng|1044.15
+102|Samsung Galaxy S24 Ultra|Dien Thoai|1044.15|Samsung|Android|1
+*
+*
+19-12-2024|15|100046|26 Đặng Chất, Đà Nẵng|1885.35
+102|Samsung Galaxy S24 Ultra|Dien Thoai|1044.15|Samsung|Android|1
+139|iPad Air 6 M2 11 inch 128GB|Tablet|585.99|Apple|iPadOS|1
+127|Sony WH-1000XM5|Tai nghe|255.21|Sony|KCB|1
+*
+*
+20-12-2024|7|100047|124 Trần Hưng Đạo, Đà Nẵng|1296.49
+118|Macbook Air M2 2022 8GB 256GB|Laptop|957.43|Apple|macOS|1
+144|iPad Gen 10 10.9 inch Wifi|Tablet|339.06|Apple|iPadOS|1
+*
+*
+24-12-2024|14|100048|30 Ngô Sỹ Liên, Đà Nẵng|1161.4
+127|Sony WH-1000XM5|Tai nghe|255.21|Sony|KCB|1
+119|Acer Nitro 5 Tiger AN515-58-50D2|Laptop|906.19|Acer|Windows|1
+*
+*
+24-12-2024|12|100049|50 Hàm Nghi, Đà Nẵng|1378.37
+101|iPhone 15 Pro Max|Dien Thoai|1158.46|Apple|iOS|1
+129|Apple Airpods Pro 2 2023|Tai nghe|219.91|Apple|tvOS|1
+*
+*
+27-12-2024|5|100050|19 Hoàng Văn Thụ, Đà Nẵng|588.17
+148|Samsung Galaxy Tab S9 Wifi|Tablet|591.67|Samsung|Android|1
+*
+*
+27-12-2024|6|100051|26 Quang Trung, Đà Nẵng|1064.3
+106|Samsung Galaxy Z Flip 6|Dien Thoai|1066.8|Samsung|Android|1
+*
+*
+27-12-2024|16|100052|16 Đặng Chất, Đà Nẵng|1059.32
+118|Macbook Air M2 2022 8GB 256GB|Laptop|957.43|Apple|macOS|1
+136|Sony INZONE H5 WH-G500|Tai nghe|101.89|Sony|KCB|1
+*
+*
+04-01-2025|18|100053|tôn đức thắng|541.44
+104|OPPO Reno10 Pro+|Dien Thoai|551.44|OPPO|Android|1
+*

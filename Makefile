@@ -1,0 +1,3 @@
+voluong:
+	g++ -IC:\SFML-2.6.1\include -LC:\SFML-2.6.1\lib -I"D:\CURL\curl-8.11.0_2-win32-mingw\include" -L"D:\CURL\curl-8.11.0_2-win32-mingw\lib" -I"D:\jsoncpp\include" -L"D:\jsoncpp\build\lib" -o Graphics/Graphics.exe Graphics\Graphic.cpp src\Admin.cpp src\Customer.cpp src\FileManager.cpp src/Discount.cpp src\Order.cpp src\Products.cpp src/History.cpp -lsfml-graphics -lsfml-window -lsfml-system -lcurl -ljsoncpp
+	./Graphics/Graphics

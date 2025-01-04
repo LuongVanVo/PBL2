@@ -1,0 +1,12 @@
+Graphics/Picture/LenovoLOQ.png
+Graphics/Picture/MSIGF63.jpg
+Graphics/Picture/ASUSTUF.png
+Graphics/Picture/ASUSVivoBook.jpg
+Graphics/Picture/HPVictus.png
+Graphics/Picture/MacBookAirM2.png
+Graphics/Picture/AcerNitro5Tiger.png
+Graphics/Picture/DellInspiron.png
+Graphics/Picture/HuaweiMatebook14.png
+Graphics/Picture/LenovoLegion5Pro.png
+Graphics/Picture/AcerAspire7.jpg
+Graphics/Picture/GigabyteG5.png

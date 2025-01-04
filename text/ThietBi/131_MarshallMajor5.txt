@@ -1,0 +1,15 @@
+- Công nghệ âm thanh
+                                Công nghệ âm thanh: Âm thanh Marshall
+                                Micro: Có 
+                                Tính năng: Điều khiển giọng nói, Có mic đàm thoại, 
+                                           Sạc không dây
+- Khả năng kết nối
+                                Bluetooth: 5.3
+                                Ứng dụng kết nối: Marshall Bluetooth
+- Thời lượng pin - sạc
+                                Dung lượng pin: 100 giờ
+                                Cổng sạc: USB-C
+                                          Sạc không dây
+                                Thời gian sạc: 3 giờ
+- Thông tin hãng
+                                Hãng sản xuất: Marshall

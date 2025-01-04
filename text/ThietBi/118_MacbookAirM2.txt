@@ -1,0 +1,33 @@
+- Vi xử lý & đồ họa
+                                Loại card đồ họa: 8 nhân GPU, 16 nhân Neural Engine
+                                Loại CPU: Apple M2
+- RAM & Ổ cứng
+                                Dung lượng RAM: 8GB
+                                Ổ cứng: 256GB
+- Thông số khác
+                                Chất liệu: Vỏ kim loại 
+                                Bảo mật: Vân tay
+- Màn hình
+                                Màn hình cảm ứng: Không
+                                Chất liệu tấm nền: Tấm nền IPS
+                                Kích thước màn hình: 13.6 inches
+                                Công nghệ màn hình: Liquid Retina Display
+                                Độ phân giải màn hình: 2560 x 1664 pixels
+- Giao tiếp & kết nối
+                                Webcam: 1080p FaceTime HD camera
+                                Hệ điều hành: MacOS
+                                Wi-Fi: 802.11ax Wi-Fi 6
+                                Bluetooth: 5.0
+- Công nghệ âm thanh
+                                Công nghệ âm thanh: 3 microphones, 4 Loa
+- Tiện ích khác
+                                Tính năng đặc biệt: Ổ cứng SSD
+- Pin & công nghệ sạc
+                                Pin: 52.6 Wh
+- Thiết kế & trọng lượng
+                                Kích thước: Dày: 1.13cm - Chiều dài: 30.41 cm, Chiều rộng: 21.5cm
+                                Trọng lượng: 1.27kg
+- Thông số kỹ thuật
+                                Cổng giao tiếp: 2 x Thunderbolt 3
+                                                Jack tai nghe 3.5 mm
+                                                MagSafe 3

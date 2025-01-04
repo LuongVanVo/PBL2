@@ -1,0 +1,23 @@
+- Màn hình
+                                Kích thước màn hình: 6.7 inches
+                                Công nghệ màn hình: Dynamic AMOLED
+                                Độ phân giải màn hình: 1080 x 2400 pixels (FullHD+)
+                                Tính năng màn hình: 120Hz
+- Camera sau
+                                Camera sau: 50MP + 12MP + 8MP
+- Camera trước
+                                Camera trước: 10MP
+- Vi xử lý & đồ họa
+                                Chipset: Exynos 2400e (4nm)
+- RAM & lưu trữ
+                                Dung lượng RAM: 8GB
+                                Bộ nhớ trong: 128GB
+- Pin & công nghệ sạc
+                                Pin: 4700 mAh
+                                Công nghệ sạc: Sạc nhanh 25W
+- Tính năng khác
+                                Hệ điều hành: Android 14
+- Tiện ích khác
+                                Tính năng đặc biệt: Hỗ trợ 5G
+                                                    Nhận diện khuôn mặt
+                                                    Điện thoại AI

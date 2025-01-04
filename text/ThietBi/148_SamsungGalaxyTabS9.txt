@@ -1,0 +1,57 @@
+- Màn hình                  
+                                Kích thước màn hình: 11 inches
+                                Công nghệ màn hình: Dynamic AMOLED 2X
+                                Độ phân giải màn hình: 2560 x 1600 pixel (QHD+)
+                                Tính năng màn hình: Tần số quét 120 Hz, HDR10+
+                                Tần số quét: 120Hz
+- Camera sau                
+                                Camera sau: 13MP
+                                Quay video: 4K 2160p@30fps
+                                Tính năng camera: Làm đẹp, HDR, Xóa phông
+                                                  Đèn Flash, Zoom kỹ thuật số
+                                                  Tua nhanh thời gian (Time‑lapse)
+                                                  Toàn cảnh (Panorama), Chuyên nghiệp (Pro)
+                                                  Tự động lấy nét
+- Camera trước              
+                                Camera trước: 12 MP
+                                Quay video trước: HDR, Quay video Full HD
+                                                  Quay video HD, Live Photos, Bộ lọc màu
+                                                  Xóa phông, Hẹn giờ chụp, Làm đẹp
+                                                  Góc siêu rộng
+- Vi xử lý & đồ họa                
+                                Chipset: Snapdragon 8 Gen 2
+                                GPU: Adreno 740
+                                Loại CPU: 1 nhân 3.36 GHz, 4 nhân 2.8 GHz & 3 nhân 2 GHz
+- Giao tiếp & kết nối       
+                                Jack tai nghe 3.5: Có
+                                GPS: GPS, GLONASS, GALILEO, BDS, QZSS 
+                                Cổng kết nối/sạc: Type-C
+- RAM & Lưu trữ
+                                Dung lượng RAM: 8 GB
+                                Bộ nhớ trong: 128 GB
+                                Khe cắm thẻ nhớ: microSDXC
+- Tính năng khác     
+                                Hệ điều hành: Android 13
+- Kích thước & trọng lượng    
+                                Kích thước: 165.8 x 254.3 x 5.9mm
+                                Trọng lượng: 498g
+- Thiết kế & trọng lượng
+                                Chất liệu mặt lưng: Nhôm
+                                Chất liệu khung viền: Nhôm
+- Pin & công nghệ sạc
+                                Pin: 8400mAh
+                                Công nghệ sạc: Sạc siêu nhanh tối đa 2.0 45W 
+                                Cổng sạc: USB Type-C
+- Cổng kêt nối
+                                Wi-Fi: 802.11 a/b/g/n/ac, Dual-band, Wi-Fi hotspot
+                                Bluetooth: 5.3
+- Tiện ích khác
+                                Các loại cảm biến: Cảm biến tiệm cận, Cảm biến ánh sáng, 
+                                                   La bàn, Con quay hồi chuyển
+                                Tính năng đặc biệt: Bảo mật vân tay, Nhận diện khuôn mặt, 
+                                                    Kháng nước, kháng bụi, Đi kèm bút cảm ứng
+- Thông số khác
+                                Tương thích: S Pen
+                                Chỉ số kháng nước, bụi: IP68 (Tab + S Pen)
+                                Công nghệ - Tiện ích: Samsung DeX (Giao diện tương tự PC), Vision Booster
+                                Công nghệ âm thanh: 4 loa AKG hỗ trợ Dolby Atmos

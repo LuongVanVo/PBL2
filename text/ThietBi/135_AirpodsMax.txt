@@ -1,0 +1,38 @@
+- Thời lượng pin tai            Dùng 20 giờ - Sạc 3 giờ
+nghe:           
+
+- Cổng sạc:                     Lightning
+
+- Công nghệ âm                  Spatial Audio
+thanh:                          Active Noise Cancellation
+                                Chip Apple H1
+
+                                Transparency Mode
+- Tương thích:                  Android
+                                iOS (iPhone)
+                                iPadOS (iPad)
+                                macOS (Macbook, iMac)
+
+- Ứng dụng kết nối:             Hãng không công bố
+- Tiện ích:                     Chống ồn chủ động
+                                Có mic thoại
+                                Sạc nhanh
+
+- Kết nối cùng lúc:             1 thiết bị
+
+- Công nghệ kết nối:            Bluetooth 5.0
+
+- Điều khiển:                   Phím nhấn
+
+- Phim điều khiển:              Tăng/giảm âm lượng
+                                Phát/dừng chơi nhạc
+                                Nghe/ngắt cuộc gọi
+                                Bật trợ lý ảo
+
+- Khối lượng:                   384.8 g
+
+- Thương hiệu của:              Mỹ
+
+- Sản xuất tại:                 Việt Nam
+
+- Hãng:                         Apple

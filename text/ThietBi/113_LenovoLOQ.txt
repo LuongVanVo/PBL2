@@ -1,0 +1,45 @@
+- Vi xử lý & đồ họa
+                                Loại card đồ họa: NVIDIA GeForce RTX 3050 6GB GDDR6 
+                                                  Boost Clock 1732MHz, TGP 95W
+                                Loại CPU: Intel Core i5-12450HX (8 lõi (4P + 4E) / 12 luồng 
+                                P-core up to 4.4GHz, E-core up to 3.1GHz, 12MB)
+- RAM & Ổ cứng
+                                Dung lượng RAM: 12GB
+                                Loại RAM: 1 x 12GB SO-DIMM DDR5-4800
+                                Số khe RAM: 2 khe DDR5 SO-DIMM (Nâng cấp tối đa 32 GB)
+                                Ổ cứng: 512 GB SSD M.2 2242 PCIe 4.0x4 NVMe 
+- Thông số khác
+                                Chất liệu: Vỏ nhựa
+                                Bảo mật: Firmware TPM 2.0 Enabled
+- Màn hình
+                                Màn hình cảm ứng: Không
+                                Chất liệu tấm nền: Tấm nền IPS
+                                Tần số quét: 144 Hz
+                                Kích thước màn hình: 15.6 inches
+                                Công nghệ màn hình: Độ sáng 300 nits, màn hình chống chói
+                                                    Độ phủ màu 100% sRGB, G-SYNC
+                                Độ phân giải màn hình: 1920 x 1080 pixels (Full HD)
+- Giao tiếp & kết nối
+                                Loại đèn bàn phím: Đèn nền trắng
+                                Webcam: FHD 1080p với màn trập E-shutter
+                                Khe đọc thẻ nhớ: Không
+                                Hệ điều hành: Windows 11 Home Single Language
+                                Wi-Fi: Wi-Fi 6, 11ax 2x2
+                                Bluetooth: Bluetooth 5.2
+- Công nghệ âm thanh
+                                Công nghệ âm thanh: Âm thanh độ phân giải cao (HD)
+                                codecc Realtek ALC3287
+                                Loa âm thanh nổi, 2W x2
+                                Nahimic Audio
+- Tiện ích khác
+                                Tính năng đặc biệt: Ổ cứng SSD, Wi-Fi 6
+- Pin & công nghệ sạc
+                                Pin: 60Wh
+- Thiết kế & Trọng lượng
+                                Kích thước: 359.86 x 258.7 x 21.9-23.9 mm (W x D x H)
+                                Trọng lượng: 2.38 kg 
+- Thông số kỹ thuật
+                                Cổng giao tiếp: 3x USB-A (USB 5Gbps / USB 3.2 Gen 1)
+                                                1x USB-C (USB 10Gbps / USB 3.2 Gen 2), với PD 140W và DisplayPort 1.4
+                                                1x HDMI 2.1, up to 8K/60Hz, 1x Headphone / microphone combo jack (3.5mm)
+                                                1x Ethernet (RJ-45), 1x Đầu nối nguồn

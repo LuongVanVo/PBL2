@@ -1,0 +1,31 @@
+- Vi xử lý & đồ họa
+                                Loại card đồ họa: Intel Iris Xe
+                                Loại CPU: Intel Core i5-1135G7 the he 11
+- RAM & Ổ cứng
+                                Dung lượng RAM: 8GB
+                                Ổ cứng: Ổ cứng SSD NVMe PCIe 512 GB
+- Màn hình
+                                Chất liệu tấm nền: Tấm nền IPS
+                                Công nghệ màn hình: IPS, sRGB 100%
+                                Kích thước màn hình: 14 inches
+                                Độ phân giải màn hình: 2160 x 1440 pixels
+- Âm thanh
+                                Công nghệ âm thanh: Loa x2
+- Cổng kết nối
+                                Cổng giao tiếp: USB-C x 1 (hỗ trợ dữ liệu, sạc và DisplayPort)
+                                                USB 3.2 Gen1 x 2
+                                                HDMI x 1
+                                                Tai nghe 3,5 mm và jack micro x 1
+                                Wi-Fi: IEEE 802.11a/b/g/n/ac/ax
+                                Bluetooth: v5.1
+- Kích thước & trọng lượng
+                                Chất liệu: Vỏ kim loại
+                                Kích thước: 307,5 x 223,8 x 15,9 mm
+                                Trọng lượng: 1,49 kg
+- Tiện ích khác
+                                Tính năng đặc biệt: Wi-Fi 6
+- Pin & công nghệ sạc
+                                Pin: 56 Wh
+- Tính năng khácc
+                                Webcam: HD 720p
+                                Hệ điều hành: Windows 10 Home SL

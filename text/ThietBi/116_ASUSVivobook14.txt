@@ -1,0 +1,49 @@
+- Vi xử lý & đồ họa
+                                Loại card đồ họa: Intel Iris Xe Graphics
+                                Loại CPU: Intel Core i7-12700H 2.3 GHz (24M Cache, up to 4.7 GHz, 6P+8E cores)
+- RAM & Ổ cứng
+                                Dung lượng RAM: 16GB
+                                Loại RAM: DDR4
+                                Số khe RAM: 8GB DDR4 on board + 8GB DDR4 SO-DIMM
+                                Ổ cứng: 512GB M.2 NVMe PCIe 3.0 SSD
+- Thông số khác
+                                Chất liệu: Vỏ nhựa
+                                Chất liệu vỏ màn hình: Nhựa 
+                                Bảo mật: Cảm biến vân tay tích hợp với Touchpad McAfee
+                                         BIOS Booting User Password Protection
+                                         BIOS setup user password
+                                         Trusted Platform Module (Firmware TPM)
+- Màn hình
+                                Màn hình cảm ứng: Không
+                                Chất liệu tấm nền: Tấm nền Oled
+                                Tần số quét: 90Hz
+                                Kích thước màn hình: 144 inches
+                                Công nghệ màn hình: Thời gian phản hồi 0.2ms
+                                                    Độ sáng 600 nits HDR peak brightness
+                                                    Độ phủ màu 100% DCI-P3
+                                                    Gamut mapping
+                                                    HDR True Black 600
+                                                    1.07 tỷ màu, SGS Eye Care Display
+                                                    Giảm 70% ánh sáng xanh có hại
+                                Độ phân giải màn hình: 2880 x 1800 pixels
+- Giao tiếp & kết nối
+                                Webcam: Camera HD 720p với màn trập camera
+                                Hệ điều hành: Windows 11 Home
+                                Wi-Fi: Wi-Fi 6(802.11ax) (Dual band) 2*2
+                                Bluetooth: Bluetooth 5.3
+- Công nghệ âm thanh
+                                Công nghệ âm thanh: SonicMaster, Loa tích hợp, Micro mảng tích hợp
+- Tiện ích khác
+                                Tính năng đặc biệt: Ổ cứng SSD, Wi-Fi 6, Bảo mật vân tay
+- Pin & công nghệ sạc
+                                Pin: 50WHrs, 3S1P, 3-cell Li-ion
+- Thiết kế & trọng lượng
+                                Kích thước: 31.71 x 22.20 x 1.99 ~ 1.99 cm (W x H x D)
+                                Trọng lượng: 1.60 kg
+- Thông số kỹ thuật
+                                Cổng giao tiếp: 1x USB 2.0 Type-A
+                                                1x USB 3.2 Gen 1 Type-C
+                                                2x USB 3.2 Gen 1 Type-A
+                                                1x HDMI 1.4
+                                                1x Headphone out
+                                                1x DC-in

@@ -1,0 +1,40 @@
+- Màn hình
+                                Kích thước màn hình: 6.8 Inches
+                                Công nghệ màn hình: Dynamic AMOLED 2X
+                                Độ phân giải màn hình: 1440 x 3120 pixels
+                                Tần số quét: 120Hz
+                                Kiểu màn hình: Đục lỗ (Nốt ruồi)
+- Camera sau
+                                Camera sau: Camera chính: 200MP, Laser AF, OIS
+                                            Camera: 50MP, PDAF, OIS, zoom quang học 5x
+                                            Camera tele: 10 MP
+                                            Camera góc siêu rộng: 12 MP, f/2.2, 13mm, 120˚
+                                Quay video: 8K@24/30fps, 4K@30/60/120fps,
+                                            1080p@30/60/240fps, 1080p@960fps
+- Camera trước
+                                Camera trước: 12 MP, f/2.2
+- Vi xử lý & đồ họa 
+                                Chipset: Snapdragon 8 Gen 3
+                                Loại CPU: 3.39GHz,3.1GHz,2.9GHz,2.2GHz
+                                GPU: Adreno 750 (1 GHz)
+- Giao tiếp & kết nối
+                                Công nghệ NFC: Có
+                                Thẻ SIM: SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM
+                                Hệ điều hành: Android 14, One UI 6.1
+                                Hỗ trợ mạng: 5G
+                                Wi-Fi: 802.11a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz, EHT320, MIMO, 4096-QAM
+                                Bluetooth v5.3
+                                GPS: GPS, Glonass, Beidou, Galileo, QZSS
+- RAM & lưu trữ
+                                Dung lượng RAM: 12 GB
+                                Bộ nhớ trống: 1TB
+- Pin & công nghệ sạc
+                                Pin: 5000 mAh
+                                Công nghệ sạc: Sạc nhanh 45W, Chia sẻ pin không dây, 
+                                               Sạc siêu nhanh, Sạc không dây
+                                Cổng sạc: USB Type-C
+- Thiết kế & trọng lượng
+                                Kích thước: 162.3 x 79.0 x 8.6mm
+                                Trọng lượng: 232g
+                                Chất liệu mặt lưng: Kính
+                                Chất liệu khung viền: Titanium

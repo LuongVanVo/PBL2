@@ -1,0 +1,54 @@
+- Màn hình
+                                Kích thước màn hình: 6.677 inches
+                                Công nghệ màn hình: OLED
+                                Độ phân giải màn hình: 1080 x 2400 pixels (FullHD+)
+                                Tính năng màn hình: 16.7 triệu màu, 2000 nits, 120Hz, AGC DT STAR2
+                                Tần số quét: 120Hz
+- Camera sau
+                                Camera sau: 50MP 882 OIS + 2MP + Flicker
+                                Quay video: 4K@30fps, 1080p@60fps/30fps, 720p@60fps/30fps
+                                Tính năng camera: Chế độ ảnh, Chế độ video, Chế độ chân dung
+                                Chế độ chụp đêm, Chế độ chụp toàn cảnh
+                                Chế độ quay tua nhanh thời gian
+                                Chế độ quay video hiển thị kép
+- Camera trước
+
+                                Camera trước: 16MP, f/2.4
+                                Quay video trước: 1080p@30fps, 720p@30fps
+- Vi xử lý & đồ họa
+                                Chipset: Dimensity 7300 Energy 5G
+                                GPU: Arm Mali-G615
+                                Loại CPU: Lõi tám nhân, 4A78 @2.5 GHz, 4A55 @2.5 GHz
+- Giao tiếp & kết nối
+                                Công nghệ NFC: Có
+                                Thẻ SIM: 2 Nano-SIM
+                                Jack tai nghe 3.5: Có
+                                Hỗ trợ mạng: 5G
+                                GPS: GPS, Glonass, Beidou, Galileo, QZSS
+- RAM & lưu trữ
+                                Dung lượng RAM: 8 GB
+                                Bộ nhớ trong: 256 GB
+                                Khe cắm thẻ nhớ: Hỗ trợ thẻ nhớ tối đa 2TB
+- Pin & công nghệ sạc
+                                Pin: 5000mAh
+                                Công nghệ sạc: Sạc nhanh Ultra 80W
+                                Cổng sạc: USB Type-C
+- Tính năng khác
+                                Hệ điều hành: Android 14
+- Thiết kế & trọng lượng
+                                Kích thước: 161.7 x 74.7 x 7.6 mm
+                                Trọng lượng: 185g
+                                Chất liệu mặt lưng: Nhựa
+                                Chất liệu khung viền: Nhựa
+- Tiện ích khác
+                                Cảm biến vân tay: Cảm biến vân tay dưới màn hình
+                                Các loại cảm biến: Cảm biến gia tốc, cảm biến tiệm cận, 
+                                                   cảm biến ánh sáng, con quay hồi chuyển
+                                Tính năng đặc biệt: Hỗ trợ 5G, Kháng nước, kháng bụi, Điện thoại AI
+- Thông số khác
+                                Hệ thống làm mát: Tản nhiệt VC
+                                Chỉ số kháng nước, bụi: IP65
+                                Công nghệ âm thanh: Loa kép 3D
+- Kết nối
+                                Wi-Fi: 2.4/5GHz Wi-Fi, Wi-Fi 6
+                                Bluetooth: v5.4

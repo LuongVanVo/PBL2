@@ -1,0 +1,42 @@
+- Màn hình
+                                Kích thước màn hình: 12.4 inches
+                                Độ phân giải màn hình: 3048 x 2032 pixels
+                                Tính năng màn hình: Màn hình cực trong 3K 144Hz, 294 ppi, 68.7 tỷ màu
+                                                    Hỗ trợ Dolby Vision®
+                                                    Corning® Gorilla® Glass 5
+                                                    Độ sáng: 700 nits (typ), HBM 900 nits
+- Camera sau
+                                Camera sau: Camera chính: 50MP, 1/2.76" f/1.8, 
+                                                          kích thước điểm ảnh 0.64μm 4-in-1
+                                            Camera phụ: 2MP, 1/5" f/2.4, 1.75μm pixel size
+                                Quay video: 4K@60fps
+- Camera trước
+                                Camera trước: 32MP, f/2.2, kích thước điểm ảnh 0.61μm 4-in-1
+                                Quay video trước: 1080p@60fps
+- Vi xử lý & đồ họa
+                                Chipset: Snapdragon® 8 Gen 2
+                                Loại CPU: 8 nhân, tốc độ xung nhịp tối đa 3.19GHz
+- Giao tiếp & kết nối
+                                Công nghệ NFC: Không
+- RAM & Lưu trữ
+                                Dung lượng RAM: 8 GB
+                                Bộ nhớ trong: 256 GB
+- Pin & công nghệ sạc
+                                Pin: 10000 mAh
+                                Công nghệ sạc: HyperCharge 120W
+                                Cổng sạc: USB Type-C
+- Tính năng khác
+                                Hệ điều hành: Xiaomi HyperOS
+- Kích thước & Trọng lượng
+                                Kích thước: 278.7 x 191.58 x 6.26 mm
+                                Trọng lượng: 590g
+- Thiết kế & Trọng lượng
+                                Chất liệu mặt lưng: Nhôm
+                                Chất liệu khung viền: Nhôm
+- Cổng kết nối
+                                Wi-Fi: Wi-Fi 7
+                                Bluetooth: v5.3
+- Thống số khác
+                                Tiện ích khác: 4 Micro để thu âm giọng nói rõ ràng, chính xác
+                                Công nghệ âm thanh: Âm thanh stereo 6 loa sống động
+                                                    Hỗ trợ Vision® và Dolby Atmos®

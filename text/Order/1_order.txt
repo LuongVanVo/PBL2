@@ -1,0 +1,5 @@
+101|iPhone 15 Pro Max|Dien Thoai|1158.46|Apple|iOS|1
+118|Macbook Air M2 2022 8GB 256GB|Laptop|957.43|Apple|macOS|1
+127|Sony WH-1000XM5|Tai nghe|255.21|Sony|KCB|1
+137|iPad Pro M4 11 inch Wifi|Tablet|1085.79|Apple|iPadOS|1
+104|OPPO Reno10 Pro+|Dien Thoai|551.44|OPPO|Android|1

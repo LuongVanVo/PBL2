@@ -1,0 +1,42 @@
+- Màn hình
+                                Kích thước màn hình: 12.1 inches
+                                Công nghệ màn hình: IPS LCD
+                                Độ phân giải màn hình: 2560 x 1600 pixel (2K)
+                                Tính năng màn hình: Chứng nhận không nháy TÜV Rheinland
+                                                    Chứng nhận ánh sáng xanh thấp TÜV 
+                                                    Rheinland (Hardware Solution)
+                                                    249 ppi, Tần số làm mới 120Hz
+                                                    AdaptiveSync, Độ tương phản 1500:1
+                                                    Độ sáng 500 nits, HBM 600 nits
+                                                    Dải màu 12-bit, 68.7 triệu màu
+- Camera sau
+                                Camera sau: 8MP - 1/4", f/2, 1.12μm
+                                Quay video: 1080p 1920x1080 30fps
+                                            - 720p 1280x720 30fps
+- Camera trước
+                                Camera trước: 8MP - 1/4", f/2.28, 1.12μm
+                                Quay video trước: 1080p 1920x1080 30fps
+                                                  - 720p 1280x720 30fps
+- Vi xử lý & đồ họa
+                                Chipset: Snapdragon 7s Gen 2
+                                GPU: Qualcomm® Adreno™ GPU
+                                Loại CPU: Octa-core core, xung nhịp 2.4GHz
+- Giao tiếp & kết nối
+                                Jack tai nghe 3.5: Có
+- RAM & Lưu trữ
+                                Dung lượng RAM: 8 GB
+                                Bộ nhớ trong: 128 GB
+- Pin & công nghệ sạc
+                                Pin: 10.000 mAh
+                                Công nghệ sạc: Sạc nhanh 33W
+                                Cổng sạc: USB Type-C
+- Tính năng khác
+                                Hệ điều hành: Xiaomi HyperOS
+- Kích thước & Trọng lượng
+                                Kích thước: 280.0mm x 181.85mm x 7.52mm
+                                Trọng lượng: 571g
+- Cổng kết nối
+                                Wi-Fi: Wi-Fi 6
+                                Bluetooth: v5.2
+- Thống số khác
+                                Công nghệ âm thanh: 4 loa với Dolby Atmos

@@ -1,0 +1,46 @@
+- Màn hình
+                                Kích thước màn hình: 6.74 Inches
+                                Công nghệ màn hình: AMOLED
+                                Độ phân giải màn hình: 1240 x 2772 pixels
+                                Tính năng màn hình: 1 tỷ màu, tần số quét 120Hz, HDR10+, 1100 nits
+- Camera sau
+                                Camera sau: Camera góc rộng: 50MP
+                                            Kính tiềm vọng: 64MP, PDAF, zoom quang học 5x
+                                            Camera góc siêu rộng: 8MP, f/2.2
+                                Quay video: 4K@30/60fps
+                                            1080p@30/60/120/240fps, gyro-EIS, OIS, HDR
+                                Tính năng camera: Zoom quang học, zoom kỹ thuật số
+                                                  Xóa phông
+                                                  Trôi nhanh thời gian (Time Lapse)
+                                                  Toàn cảnh (Panorama)
+                                                  Siêu độ phân giải, quét tài liệu
+- Camera trước
+                                Camera trước: Camera góc rộng: 32MP, f/2.4
+                                Quay video trước: 1080p@30fps, gyro-EIS
+- Vi xử lý & đồ họa
+                                Chipset: Snapdragon 8 Plus Gen 1, 8 nhân
+                                Loại CPU: 1 x 3.0 GHz Cortex-X2
+                                          3 x 2.75 GHz Cortex-A710
+                                          4 x 2.0 GHz Cortex-A510
+                                GPU: Adreno 730
+- Giao tiếp & kết nối
+                                Công nghệ NFC: Có
+                                Thẻ SIM: 2 SIM (Nano-SIM)
+                                Hệ điều hành: Android 13
+                                Hồng ngoại: Có
+                                Wi-Fi: Wi-Fi 6, Dual-band (2.4 GHz/5 GHz)
+                                Bluetooth: v5.3
+                                GPS: QZSS, GPS, GLONASS, GALILEO, BEIDOU
+- RAM & lưu trữ
+                                Dung lượng RAM: 12GB
+                                Bộ nhớ trong: 256GB
+- Pin & công nghệ sạc
+                                Pin: 4700mAh
+                                Công nghệ sạc: Sạc có dây 100W
+                                               Tiết kiệm pin
+                                               Sạc siêu nhanh SuperVOOC
+                                Cổng sạc: USB Type-C
+- Thiết kế & trọng lượng
+                                Kích thước: 162.9 x 74 x 8.3 mm
+                                Trọng lượng: 194g
+                                Chất liệu mặt lưng: Kính

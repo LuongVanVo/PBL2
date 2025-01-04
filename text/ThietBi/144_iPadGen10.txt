@@ -1,0 +1,55 @@
+- Màn hình                  
+                                Kích thước màn hình: 10.9 inches
+                                Công nghệ màn hình: IPS LCD
+                                Độ phân giải màn hình: 1640 x 2360 pixels
+                                Tính năng màn hình: True Tone, 500 nits, Tần số quét 60 Hz
+- Camera sau                
+                                Camera sau: Camera góc rộng: 12MP, ƒ/1.8
+                                Quay video: 4K 2160p@30fps, 4K 2160p@24fps
+                                            4K 2160p@25fps, 4K 2160p@60fps
+                                            FullHD 1080p@25fps, FullHD 1080p@30fps
+                                            FullHD 1080p@60fps, HD 720p@30fps
+                                Tính năng camera: Trôi nhanh thời gian (Time Lapse), Bộ lọc màu, HDR, Quay video
+                                                  Bộ lọc màu, Góc rộng, Gắn thẻ địa lý, Quay chậm (Slow Motion), 
+                                                  Smart HDR 3, Toàn cảnh (Panorama), Tua nhanh thời gian (Time‑lapse), 
+                                                  Zoom kỹ thuật số
+- Camera trước              
+                                Camera trước: Camera góc siêu rộng: 12MP, 122°, ƒ/2.4
+                                Quay video trước: Full HD 1080p@25fps, FullHD 1080p@30fps
+                                                  FullHD 1080p@60fps, HD 720p@30fps
+- Vi xử lý & đồ họa         
+                                Chipset: Apple A14 Bionic 6 nhân
+                                GPU: Apple GPU 4 nhân
+                                Loại CPU: 2 nhân 3.1 GHz & 4 nhân 1.8 GHz
+- Giao tiếp & kết nối       
+                                Công nghệ NFC: Không
+                                Jack tai nghe 3.5: Không
+                                GPS: GPS, iBeacon
+- RAM & Lưu trữ
+                                Dung lượng RAM: 4 GB
+                                Bộ nhớ trong: 64 GB
+                                Khe cắm thẻ nhớ: Không
+- Tính năng khác     
+                                Hệ điều hành iPadOS 16
+- Kích thước & trọng lượng    
+                                Kích thước: 248.6 x 179.5 x 7 mm
+                                Trọng lượng: 477g
+- Thiết kế & trọng lượng
+                                Chất liệu mặt lưng: Kim loại
+                                Chất liệu khung viền: Kim loại
+- Pin & công nghệ sạc
+                                Pin: 28.6 WH(~7587 mAh)
+                                Công nghệ sạc:  Sạc tối đa 20W, Sạc pin nhanh, Tiết kiệm pin
+                                Cổng sạc: USB Type-C
+- Thông số khác
+                                Tương thích: Apple Pencil 1 2022, Apple Pencil USB-C 2023
+                                             Bàn phím iPad Gen 10 Apple Magic, Keyboard + Trackpad
+                                Tiện ích khác: 4 loa, Kết nối Apple Pencil
+                                               Kết nối bàn phím rời, Mở khóa bằng vân tay
+                                Công nghệ âm thanh: Âm thanh Dolby Atmos
+- Cổng kêt nối
+                                Wi-Fi: Dual-band, MIMO,Wi-Fi 802.11 a/b/g/n/ac/ax, Wi-Fi hotspot
+                                Bluetooth: v5.2
+- Tiện ích khác
+                                Cảm biến vân tay: Cảm biến vân tay cạnh bên
+                                Các loại cảm biến: Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến áp kế

@@ -1,0 +1,52 @@
+- Màn hình
+                                Kích thước màn hình: 11.5 inches
+                                Công nghệ màn hình: TFT LCD (paper matte)
+                                Độ phân giải màn hình: 2800 x 1840 pixels
+                                Tính năng màn hình: Tốc độ làm mới 144 Hz
+                                                    2.8K
+                                                    Tỷ lệ khung hình 3:2
+                                                    291 PPI
+                                                    Độ tương phản 1500: 1, 500 nit
+                                                    16,7 triệu màu, gam màu rộng P3
+- Camera sau
+                                Camera sau: 13 MP, f/1.8, AF
+                                Quay video: 4160 × 3120 pixel
+                                            1920 × 1080 pixel
+                                Tính năng camera: Làm đẹp, Toàn cảnh
+                                                  Điều khiển âm thanh, Hẹn giờ
+                                                  Tua nhanh thời gian
+                                                  Hình mờ, Tài liệu 
+- Camera trước
+                                Camera trước: 8 MP, f/2.0, FF
+                                Quay video trước: 3264 × 2448 pixel
+                                                  1920 × 1080 pixel
+- Vi xử lý & đồ họa
+                                Chipset: Kirin 9000WL
+                                GPU: Adreno™ 650
+                                Loại CPU: Octa-core, 1 × Cortex-A77@3.2 GHz + 
+                                          3 × Cortex-A77@2.42 GHz +
+                                          4 × Cortex-A55@1.8 GHz
+- Giao tiếp & kết nối
+                                Jack tai nghe 3.5: Không
+- RAM & Lưu trữ
+                                Dung lượng RAM: 8 GB
+                                Bộ nhớ trong: 256 GB
+- Pin & công nghệ sạc
+                                Pin: 8800 mAh
+                                Công nghệ sạc: sạc nhanh 10V/2.25A
+                                Cổng sạc: USB Type-C
+- Tính năng khác
+                                Hệ điều hành: HarmonyOS 4.2
+- Kích thước & Trọng lượng
+                                Kích thước: 177.3 x 261.0 x 6.2 mm
+                                Trọng lượng: 510 g
+- Cổng kết nối
+                                Wi-Fi: 802.11a/b/g/n/ac/ax, 2 × 2 MIMO
+                                       2.4 GHz và 5 GHz
+                                Bluetooth: v5.2, BLE, AAC, LDAC
+- Thống số khác
+                                Tương thích: Bút Cảm Ứng M-Pencil Với Công Nghệ NearLink
+                                Công nghệ âm thanh: 4 loa
+- Tiện ích khác
+                                Các loại cảm biến: Cảm biến gia tốc, Cảm biến ánh sáng, 
+                                                   Con quay hồi chuyển, Cảm biến trọng lực

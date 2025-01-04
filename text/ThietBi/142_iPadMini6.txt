@@ -1,0 +1,55 @@
+- Màn hình                  
+                                Công nghệ màn hình: Mini LED, Liquid Retina
+                                Kích thước màn hình: 8.3 inches
+                                Độ phân giải màn hình: 2266 x 1488 pixels
+                                Tính năng màn hình: Độ phủ màu: DCP-P3
+                                                    Độ sáng 500 nits
+                                                    Công nghệ True Tone
+                                                    Lớp phủ màn hình chống lóa
+- Camera sau                
+                                Camera sau: 12MP khẩu độ f/1.8
+                                Quay video: 4K 2160p@24fps, 4K 2160p@25fps
+                                            4K 2160p@30fps, 4K 2160p@60fps
+                                            FullHD 1080p@25fps, FullHD 1080p@30fps
+                                            FullHD 1080p@60fps
+                                Tính năng camera: Chạm lấy nét, Gắn thẻ địa lý HDR
+                                                  Nhận diện khuôn mặt, Quay chậm (Slow Motion)
+                                                  Toàn cảnh (Panorama), Tua nhanh thời gian (Time‑lapse)
+                                                  Tự động lấy nét (AF), Zoom kỹ thuật số
+- Camera trước              
+                                Camera trước: 12MP góc rộng
+                                Quay video trước: HDR, Quay video Full HD
+                                                  Quay video HD, Tự động lấy nét (AF)
+- Vi xử lý & đồ họa         
+                                Chipset: Apple A15 Bionic 6 nhân
+                                GPU: Apple GPU 5 nhân
+                                Loại CPU: 2.93 GHz
+- Giao tiếp & kết nối       
+                                Jack tai nghe 3.5: Không
+                                GPS: A-GPS, GLONASS, GPS
+- RAM & Lưu trữ
+                                Dung lượng RAM: 4 GB
+                                Bộ nhớ trong: 64 GB
+- Tính năng khác     
+                                Hệ điều hành: iPadOS
+- Kích thước & trọng lượng    
+                                Kích thước: 195.4 × 134.8 × 6.3mm
+                                Trọng lượng: 293g
+- Thiết kế & trọng lượng
+                                Chất liệu mặt lưng: Nhôm
+                                Chất liệu khung viền: Nhôm
+- Pin & công nghệ sạc
+                                Pin: 19.3 Wh (~5175 mAh)
+                                Công nghệ sạc: Sạc nhanh 20W
+                                Cổng sạc: USB Type-C
+- Thông số khác
+                                Tương thích: Apple Pencil 2
+                                             Apple Pencil USB-C 2023
+                                Tiện ích khác: Kết nối Apple Pencil 2, Mở khóa bằng vân tay
+- Cổng kêt nối
+                                Wi-Fi: Wi-Fi 802.11 a/b/g/n/ac/ax, Dual-band
+                                Bluetooth: v5.0
+- Tiện ích khác
+                                Cảm biến vân tay: Cảm biến vân tay cạnh bên
+                                Các loại cảm biến: Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, 
+                                                   La bàn, Con quay hồi chuyển, Cảm biến áp kế

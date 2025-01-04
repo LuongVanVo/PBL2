@@ -1,0 +1,67 @@
+- Màn hình                  
+                                Kích thước màn hình: 10.86 inches
+                                Công nghệ màn hình: Liquid Retina
+                                Độ phân giải màn hình: 2360 x 1640 pixel
+                                Tính năng màn hình: Màn hình Multi-Touch với công nghệ 
+                                                    LED nền và IPS, mật độ 264 ppi
+                                                    Dải màu rộng (P3)
+                                                    True Tone
+                                                    Công nghệ ép kín
+- Camera sau                
+                                Camera sau: Camera góc rộng 12MP, khẩu độ ƒ/1.8
+                                Quay video: Quay video 4K ở tốc độ 24 fps, 25 fps, 30 fps, hoặc 60 fps
+                                            Quay video HD 1080p ở tốc độ 25 fps, 30 fps, hoặc 60 fps
+                                            Quay video HD 720p ở tốc độ 30 fps
+                                            Hỗ trợ quay video chậm 1080p ở tốc độ 120 fps hoặc 240 fps
+                                            Video tua nhanh có chống rung
+                                Tính năng camera: Độ thu phóng kỹ thuật số lên đến 5x
+                                                  Ống kính 5 thành phần
+                                                  Tự động lấy nét theo pha Focus Pixels
+                                                  Chụp ảnh toàn cảnh Panorama (lên đến 63MP)
+                                                  HDR thông minh thế hệ 4
+                                                  Chụp hình dải màu rộng cho ảnh và ảnh động Live Photos
+                                                  Định vị ảnh
+- Camera trước              
+                                Camera trước: Camera trước Ultra Wide 12MP trên cạnh ngang
+                                              Khẩu độ ƒ/2.4
+                                Quay video trước: HDR thông minh thế hệ 4
+                                                  Quay video HD 1080p ở tốc độ 25 fps, 
+                                                  30 fps, hoặc 60 fps
+                                                  Video tua nhanh có chống rung
+                                                  Độ lệch tương phản mở rộng khi quay video ở tốc 
+                                                  độ lên đến 30 fps
+                                                  Chống rung video kỹ thuật số (1080p và 720p)
+- Vi xử lý & đồ họa         
+                                Chipset: Apple M2
+                                GPU: GPU 10 lõi, Neural Engine 16 lõi
+                                Loại CPU: CPU 8 lõi với 4 lõi hiệu năng và 4 lõi tiết kiệm điện
+- Giao tiếp & kết nối       
+                                Công nghệ NFC: Không
+                                Jack tai nghe 3.5: Không
+                                GPS: GPS/GNSS, Định vị vi mô iBeacon
+- RAM & Lưu trữ
+                                Dung lượng RAM: 8 GB
+                                Bộ nhớ trong: 128 GB
+                                Khe cắm thẻ nhớ: Không
+- Tính năng khác     
+                                Hệ điều hành: iPadOS 17
+- Kích thước & trọng lượng    
+                                Kích thước: Rộng 178.5 mm x Cao 247.6 mm x Dày 6.1 mm
+                                Trọng lượng: 462 g
+- Pin & công nghệ sạc
+                                Công nghệ sạc: Tích hợp pin sạc Li-Po 28,93 watt‑giờ
+                                Cổng sạc: USB Type-C
+- Thông số khác
+                                Tương thích: Apple Pencil Pro, Apple Pencil USB-C 2023
+                                             Bàn phím iPad Air 11 M2/ Pro 11 M2, Apple Magic Keyboard + Trackpad
+                                             Bàn phím iPad Air 11 M2/ Pro 11 M2, Apple Smart Keyboard
+                                Công nghệ - Tiện ích: FaceID, LiDAR Scanner
+                                Tiện ích khác: Apple Pay, Phát âm thanh không gian
+                                Công nghệ âm thanh: Loa stereo ở cạnh trên và cạnh dưới
+- Cổng kêt nối
+                                Wi-Fi: Wi‑Fi 6E (802.11ax) với 2x2 MIMO4
+                                Bluetooth: Bluetooth 5.3
+- Tiện ích khác
+                                Cảm biến vân tay: Cảm biến vân tay cạnh bên
+                                Các loại cảm biến: Cảm biến gia tốc, Cảm biến ánh sáng,
+                                                   Con quay hồi chuyển, Cảm biến áp kế

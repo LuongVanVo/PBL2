@@ -1,0 +1,52 @@
+- Màn hình
+                                Công nghệ màn hình: LTPS LCD
+                                Độ phân giải: 2000 x 2800 Pixels
+                                Màn hình rộng: 11.61" - Tần số quét 144 Hz
+- Hệ điều hành & CPU
+                                Hệ điều hành: Android 13
+                                Chip xử lý (CPU): Mediatek Dimensity 9000 8 nhân
+                                Tốc độ CPU: 1 nhân 3.05 GHz, 3 nhân 2.85 GHz & 4 nhân 1.8 GHz
+                                Chip đồ họa (GPU): Mali-G710 MC10
+- Bộ nhớ & Lưu trữ  
+                                RAM: 8 GB
+                                Bộ nhớ trong: 256 GB
+- Camera sau
+                                Độ phân giải: 13 MP
+                                Quay phim: 4K 2160p@30fps, HD 720p@30fps
+                                           FullHD 1080p@30fps 
+                                Tính năng: Bộ lọc màu, Đèn Flash, Ánh sáng yếu (Chụp đêm)
+                                           Zoom kỹ thuật số, Tua nhanh thời gian (Time‑lapse)
+                                           Toàn cảnh (Panorama), Quét tài liệu, Quét mã QR
+                                           Quay chậm (Slow Motion), Nhãn dán (AR Stickers)
+                                           Làm đẹp, HDR, Chụp hẹn giờ, Chống rung EIS
+                                           Tự động lấy nét
+- Camera trước
+                                Độ phân giải: 8 MP
+                                Tính năng: Trôi nhanh thời gian (Time Lapse)
+                                           Toàn cảnh (Panorama), Xóa phông
+                                           Quay video HD, Quay video Full HD
+                                           Nhãn dán (AR Stickers), Làm đẹp
+                                           Hẹn giờ chụp, HDR, Flash màn hình
+- Kết nối
+                                Wi-Fi: Wi-Fi 802.11 a/b/g/n/ac/ax, Wi-Fi 802.11 a/b/g/n/ac
+                                       Wi-Fi 802.11 a/b/g/n, Dual-band
+                                GPS: GPS, GLONASS, GALILEO, BDS
+                                Bluetooth: v5.3, LE, A2DP
+                                Cổng kết nối/sạc: Type-C
+- Tiện ích
+                                Tính năng đặc biệt: Ứng dụng kép (Nhân bản ứng dụng)
+                                                    Đa cửa sổ, Âm thanh Hi-Res Audio
+                                                    Âm thanh Dolby Atmos, Trợ lý ảo Google
+                                                    Thanh bên thông minh, Mở khóa bằng khuôn mặt
+                                                    Khoá ứng dụng, Dolby Vision, DCI-P3
+                                                    Chạm 2 lần tắt/mở màn hình, 4 loa
+                                Ghi âm: Có
+- Pin & Sạc
+                                Dung lượng pin: 9510 mAh
+                                Công nghệ pin: SUPERVOOC, Siêu tiết kiệm pin
+                                               Tiết kiệm pin
+                                Hỗ trợ sạc tối đa: 67W
+- Thông tin chung
+                                Chất liệu: Nhôm nguyên khối
+                                Kích thước: Dài 258.03 mm - Ngang 189.39 mm - Dày 6.54 mm
+                                Trọng lượng: 552 g
