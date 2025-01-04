@@ -1,4 +1,4 @@
-#include "D:\PBL2_MYSTORE\include\Admin.h"
+#include "../include/Admin.h"
 
 Admin::Admin() {}
 Admin::~Admin() {}
@@ -9,16 +9,16 @@ void Admin::addProduct(string fileName, string imagePath, int productID, string 
 {
     string screenProduct, screenSpecification;
     string line;
-    string fileProduct = "D:\\PBL2_MYSTORE\\text\\ThietBi\\" + fileName;
+    string fileProduct = "text\\ThietBi\\" + fileName;
     screenProduct = nameProduct + "_SCREEN";
     screenSpecification = nameProduct + "_SPECIFICATION";
     transform(screenProduct.begin(), screenProduct.end(), screenProduct.begin(), ::toupper);
     transform(screenSpecification.begin(), screenSpecification.end(), screenSpecification.begin(), ::toupper);
 
     string image = "Graphics/Picture/" + imagePath;
-    string tinhNangNoiBat = "D:\\PBL2_MYSTORE\\text\\TinhNangNoiBat\\" + fileName;
+    string tinhNangNoiBat = "text\\TinhNangNoiBat\\" + fileName;
     // Kiểm tra xem productID đã tồn tại chưa
-    ifstream checkFile("D:\\PBL2_MYSTORE\\text\\Products.txt");
+    ifstream checkFile("text\\Products.txt");
     bool idExists = false;
     while (getline(checkFile, line)) {
         if (line.find(to_string(productID) + "|") != string::npos) {
@@ -148,7 +148,7 @@ void Admin::addProduct(string fileName, string imagePath, int productID, string 
 void Admin::deleteProduct(int productID) 
 {
     // Mở file để đọc thông số kỹ thuật
-    ifstream inFile_specification("D:\\PBL2_MYSTORE\\text\\ThongSoKyThuat.txt");
+    ifstream inFile_specification("text\\ThongSoKyThuat.txt");
     if (!inFile_specification.is_open()) {
         cout << "Error: Can't open specification file.\n";
         return;
@@ -203,7 +203,7 @@ void Admin::deleteProduct(int productID)
     inFile_specification.close();
 
     // Ghi lại nội dung đã cập nhật vào file
-    ofstream outFile_specification("D:\\PBL2_MYSTORE\\text\\ThongSoKyThuat.txt");
+    ofstream outFile_specification("text\\ThongSoKyThuat.txt");
     if (!outFile_specification.is_open()) {
         cout << "Error: Can't open specification file to write.\n";
         return;
@@ -212,7 +212,7 @@ void Admin::deleteProduct(int productID)
     outFile_specification.close();
 
     // Xóa trong file Products
-    ifstream inFile("D:\\PBL2_MYSTORE\\text\\Products.txt");
+    ifstream inFile("text\\Products.txt");
     if (!inFile.is_open()) {
         cout << "Error: Can't open product file.\n";
         return;
@@ -258,7 +258,7 @@ void Admin::deleteProduct(int productID)
     }
 
     // Ghi lại các sản phẩm vào file (đã xóa sản phẩm cần xóa)
-    ofstream outFile("D:\\PBL2_MYSTORE\\text\\Products.txt");
+    ofstream outFile("text\\Products.txt");
     if (!outFile.is_open()) { cout << "Error: Can't open product file to write.\n"; delete[] product; // Giải phóng bộ nhớ trước khi kết thúc
         return;
     }

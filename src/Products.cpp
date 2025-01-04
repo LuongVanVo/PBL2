@@ -98,7 +98,7 @@ ostream& operator<<(ostream& out, const Products& product)
 void Products::displayProducts()
 {
     int productSize;
-    Products *products = FileManager::loadProducts("D:\\PBL2_MYSTORE\\text\\Products.txt", productSize);
+    Products *products = FileManager::loadProducts("text\\Products.txt", productSize);
 
     if (products == NULL || productSize == 0) {
         cout << "No product available. " << endl;
@@ -125,7 +125,7 @@ string Products::displaySpecification(int productID)
     bool check = false;
     int productSize;
     
-    Products *products = FileManager::loadSpecifications("D:\\PBL2_MYSTORE\\text\\ThongSoKyThuat.txt", productSize);
+    Products *products = FileManager::loadSpecifications("text\\ThongSoKyThuat.txt", productSize);
     if (products == NULL || productSize == 0) {
         return "No product available. \n";
     }

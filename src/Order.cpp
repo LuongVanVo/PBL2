@@ -260,7 +260,7 @@ void Order::payment(string &addressOrder, string discountCode, double &priceDisc
 void Order::displayHistory(){
     History* history = nullptr;
     int countPay;
-    history = FileManager::loadPay("D:\\PBL2_MYSTORE\\text\\Pay.txt", countPay, customerID);
+    history = FileManager::loadPay("text\\Pay.txt", countPay, customerID);
     for(int i = countPay - 1; i >= 0; i--){
         cout << setw(10) << history[i].getCurrentDate()
             << setw(5) << history[i].getCustomerID()

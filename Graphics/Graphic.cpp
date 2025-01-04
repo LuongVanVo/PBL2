@@ -4,14 +4,13 @@
 #undef byte
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
-#include "D:\PBL2_MYSTORE\include\Customer.h"
-// #include "../include/Customer.h"
-#include "D:\PBL2_MYSTORE\include\FileManager.h"
-#include "D:\PBL2_MYSTORE\include\Products.h"
-#include "D:\PBL2_MYSTORE\include\Order.h"
-#include "D:\PBL2_MYSTORE\include\Admin.h"
-#include "D:\PBL2_MYSTORE\include\Discount.h"
-#include "D:\PBL2_MYSTORE\include\History.h"
+#include "../include/Customer.h"
+#include "../include/FileManager.h"
+#include "../include/Products.h"
+#include "../include/Order.h"
+#include "../include/Discount.h"
+#include "../include/Admin.h"
+#include "../include/History.h"
 #include <map>
 #include <vector>
 #include <iostream>
@@ -31,7 +30,7 @@
 map<int, sf::Texture> productTextures; 
 
 // Danh sách chứa ID sản phẩm và đường dẫn tới ảnh của sản phẩm
-vector<pair<int, string>> productInfo = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\productID_pathPicture.txt");
+vector<pair<int, string>> productInfo = FileManager::readFromFile("text\\productID_pathPicture.txt");
 
 int posY = 190;
 float rightMargin = 650.0f;
@@ -355,21 +354,21 @@ int main()
     // Trạng thái của màn hình
     ScreenState screenState = MAIN_MENU;
     int lineCountProduct1, lineCountProduct2, lineCountProduct3, lineCountProduct4, lineCountSpecification1, lineCountSpecification2, lineCountSpecification3, lineCountSpecification4;
-    int *screenProduct1 = fileManager->loadLineNumbersFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\screenProduct1.txt", lineCountProduct1);
-    int *screenSpecification1 = fileManager->loadLineNumbersFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\specificationProduct1.txt", lineCountSpecification1);
-    int *screenProduct2 = fileManager->loadLineNumbersFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\screenProduct2.txt", lineCountProduct2);
-    int *screenSpecification2 = fileManager->loadLineNumbersFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\specificationProduct2.txt", lineCountSpecification2);
-    int *screenProduct3 = fileManager->loadLineNumbersFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\screenProduct3.txt", lineCountProduct3);
-    int *screenSpecification3 = fileManager->loadLineNumbersFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\specificationProduct3.txt", lineCountSpecification3);
-    int *screenProduct4 = fileManager->loadLineNumbersFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\screenProduct4.txt", lineCountProduct4);
-    int *screenSpecification4 = fileManager->loadLineNumbersFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\specificationProduct4.txt", lineCountSpecification4);
+    int *screenProduct1 = fileManager->loadLineNumbersFromFile("text\\DisplayDevice\\screenProduct1.txt", lineCountProduct1);
+    int *screenSpecification1 = fileManager->loadLineNumbersFromFile("text\\DisplayDevice\\specificationProduct1.txt", lineCountSpecification1);
+    int *screenProduct2 = fileManager->loadLineNumbersFromFile("text\\DisplayDevice\\screenProduct2.txt", lineCountProduct2);
+    int *screenSpecification2 = fileManager->loadLineNumbersFromFile("text\\DisplayDevice\\specificationProduct2.txt", lineCountSpecification2);
+    int *screenProduct3 = fileManager->loadLineNumbersFromFile("text\\DisplayDevice\\screenProduct3.txt", lineCountProduct3);
+    int *screenSpecification3 = fileManager->loadLineNumbersFromFile("text\\DisplayDevice\\specificationProduct3.txt", lineCountSpecification3);
+    int *screenProduct4 = fileManager->loadLineNumbersFromFile("text\\DisplayDevice\\screenProduct4.txt", lineCountProduct4);
+    int *screenSpecification4 = fileManager->loadLineNumbersFromFile("text\\DisplayDevice\\specificationProduct4.txt", lineCountSpecification4);
 
     // Load id sản phầm vào mảng
     int countProduct1, countProduct2, countProduct3, countProduct4;
-    int *IDSanPham1 = fileManager->loadIDFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\ProductID1.txt", countProduct1);
-    int *IDSanPham2 = fileManager->loadIDFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\ProductID2.txt", countProduct2);
-    int *IDSanPham3 = fileManager->loadIDFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\ProductID3.txt", countProduct3);
-    int *IDSanPham4 = fileManager->loadIDFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\ProductID4.txt", countProduct4);
+    int *IDSanPham1 = fileManager->loadIDFromFile("text\\DisplayDevice\\ProductID1.txt", countProduct1);
+    int *IDSanPham2 = fileManager->loadIDFromFile("text\\DisplayDevice\\ProductID2.txt", countProduct2);
+    int *IDSanPham3 = fileManager->loadIDFromFile("text\\DisplayDevice\\ProductID3.txt", countProduct3);
+    int *IDSanPham4 = fileManager->loadIDFromFile("text\\DisplayDevice\\ProductID4.txt", countProduct4);
     // Lấy kích thước cửa sổ
     sf::Vector2u windowSize = window.getSize();
 
@@ -536,11 +535,11 @@ int main()
     cartIcon.loadFromFile("Graphics/Picture/cart.png");
 
     int countProduct_1 = 0;
-    string *imagePaths_1 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\imagePaths1.txt", countProduct_1);
-    string *nameProducts_1 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProducts1.txt", countProduct_1);
-    string *nameProductScreens_1 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProductScreen1.txt", countProduct_1);
-    string *prices_1 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\Price1.txt", countProduct_1);
-    string *tinhNangNoiBat_1 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\tinhNangNoiBat1.txt", countProduct_1);
+    string *imagePaths_1 = FileManager::readFromFile("text\\DisplayDevice\\imagePaths1.txt", countProduct_1);
+    string *nameProducts_1 = FileManager::readFromFile("text\\DisplayDevice\\nameProducts1.txt", countProduct_1);
+    string *nameProductScreens_1 = FileManager::readFromFile("text\\DisplayDevice\\nameProductScreen1.txt", countProduct_1);
+    string *prices_1 = FileManager::readFromFile("text\\DisplayDevice\\Price1.txt", countProduct_1);
+    string *tinhNangNoiBat_1 = FileManager::readFromFile("text\\DisplayDevice\\tinhNangNoiBat1.txt", countProduct_1);
 
     sf::RectangleShape productss_1[countProduct_1];
     sf::RectangleShape cartButtons_1[countProduct_1];
@@ -571,11 +570,11 @@ int main()
         );
     }
     int countProduct_2 = 0;
-    string *imagePaths_2 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\imagePaths2.txt", countProduct_2);
-    string *nameProducts_2 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProducts2.txt", countProduct_2);
-    string *nameProductScreens_2 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProductScreen2.txt", countProduct_2);
-    string *prices_2 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\Price2.txt", countProduct_2);
-    string *tinhNangNoiBat_2 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\tinhNangNoiBat2.txt", countProduct_2);
+    string *imagePaths_2 = FileManager::readFromFile("text\\DisplayDevice\\imagePaths2.txt", countProduct_2);
+    string *nameProducts_2 = FileManager::readFromFile("text\\DisplayDevice\\nameProducts2.txt", countProduct_2);
+    string *nameProductScreens_2 = FileManager::readFromFile("text\\DisplayDevice\\nameProductScreen2.txt", countProduct_2);
+    string *prices_2 = FileManager::readFromFile("text\\DisplayDevice\\Price2.txt", countProduct_2);
+    string *tinhNangNoiBat_2 = FileManager::readFromFile("text\\DisplayDevice\\tinhNangNoiBat2.txt", countProduct_2);
 
     sf::RectangleShape productss_2[countProduct_2];
     sf::RectangleShape cartButtons_2[countProduct_2];
@@ -606,11 +605,11 @@ for (int i = 0; i < countProduct_2; ++i) {
     );
 }
     int countProduct_3 = 0;
-    string *imagePaths_3 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\imagePaths3.txt", countProduct_3);
-    string *nameProducts_3 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProducts3.txt", countProduct_3);
-    string *nameProductScreens_3 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProductScreen3.txt", countProduct_3);
-    string *prices_3 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\Price3.txt", countProduct_3);
-    string *tinhNangNoiBat_3 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\tinhNangNoiBat3.txt", countProduct_3);
+    string *imagePaths_3 = FileManager::readFromFile("text\\DisplayDevice\\imagePaths3.txt", countProduct_3);
+    string *nameProducts_3 = FileManager::readFromFile("text\\DisplayDevice\\nameProducts3.txt", countProduct_3);
+    string *nameProductScreens_3 = FileManager::readFromFile("text\\DisplayDevice\\nameProductScreen3.txt", countProduct_3);
+    string *prices_3 = FileManager::readFromFile("text\\DisplayDevice\\Price3.txt", countProduct_3);
+    string *tinhNangNoiBat_3 = FileManager::readFromFile("text\\DisplayDevice\\tinhNangNoiBat3.txt", countProduct_3);
 
     sf::RectangleShape productss_3[countProduct_3];
     sf::RectangleShape cartButtons_3[countProduct_3];
@@ -641,11 +640,11 @@ for (int i = 0; i < countProduct_2; ++i) {
     );
 }
     int countProduct_4 = 0;
-    string *imagePaths_4 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\imagePaths4.txt", countProduct_4);
-    string *nameProducts_4 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProducts4.txt", countProduct_4);
-    string *nameProductScreens_4 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProductScreen4.txt", countProduct_4);
-    string *prices_4 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\Price4.txt", countProduct_4);
-    string *tinhNangNoiBat_4 = FileManager::readFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\tinhNangNoiBat4.txt", countProduct_4);
+    string *imagePaths_4 = FileManager::readFromFile("text\\DisplayDevice\\imagePaths4.txt", countProduct_4);
+    string *nameProducts_4 = FileManager::readFromFile("text\\DisplayDevice\\nameProducts4.txt", countProduct_4);
+    string *nameProductScreens_4 = FileManager::readFromFile("text\\DisplayDevice\\nameProductScreen4.txt", countProduct_4);
+    string *prices_4 = FileManager::readFromFile("text\\DisplayDevice\\Price4.txt", countProduct_4);
+    string *tinhNangNoiBat_4 = FileManager::readFromFile("text\\DisplayDevice\\tinhNangNoiBat4.txt", countProduct_4);
 
     sf::RectangleShape productss_4[countProduct_4];
     sf::RectangleShape cartButtons_4[countProduct_4];
@@ -2994,7 +2993,7 @@ while (window.isOpen())
                         if (event.mouseButton.button == sf::Mouse::Left) {
                             if (confirmStatisticButton.getGlobalBounds().contains(mouseWorldPos)) {
                                 cout << "Detail statistic for date. \n";
-                                lichSuDonHang = FileManager::loadPay("D:\\PBL2_MYSTORE\\text\\Pay.txt", dateToFind, countPay, totalPrice);
+                                lichSuDonHang = FileManager::loadPay("text\\Pay.txt", dateToFind, countPay, totalPrice);
                             }
                         }
                     }
@@ -4485,7 +4484,7 @@ while (window.isOpen())
             int countPay = 0;
             int countCheck = 0;
             int maKhachHang = customers->getCustomerID();
-            History *historyPay = FileManager::loadPay("D:\\PBL2_MYSTORE\\text\\Pay.txt", countPay, maKhachHang);
+            History *historyPay = FileManager::loadPay("text\\Pay.txt", countPay, maKhachHang);
             float posFirst = 390.0f;
             for (int i = countPay - 1; i >= 0; i--) {
                 countCheck++;
@@ -5235,47 +5234,47 @@ while (window.isOpen())
                             int rowInFile = 1e9;
                             if (resultFoundProducts[i].getGenre() == "Dien Thoai") {
                                 rowInFile = resultFoundProducts[i].getProductID() - 100;
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\imagePaths1.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProducts1.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProductScreen1.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\Price1.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\screenProduct1.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\specificationProduct1.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\tinhNangNoiBat1.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\ProductID1.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\imagePaths1.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\nameProducts1.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\nameProductScreen1.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\Price1.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\screenProduct1.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\specificationProduct1.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\tinhNangNoiBat1.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\ProductID1.txt", rowInFile - 1);
                             } 
                             else if (resultFoundProducts[i].getGenre() == "Laptop") {
                                 rowInFile = resultFoundProducts[i].getProductID() - 112;
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\imagePaths2.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProducts2.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProductScreen2.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\Price2.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\screenProduct2.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\specificationProduct2.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\tinhNangNoiBat2.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\ProductID2.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\imagePaths2.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\nameProducts2.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\nameProductScreen2.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\Price2.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\screenProduct2.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\specificationProduct2.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\tinhNangNoiBat2.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\ProductID2.txt", rowInFile - 1);
                             } 
                             else if (resultFoundProducts[i].getGenre() == "Tai nghe") {
                                 rowInFile = resultFoundProducts[i].getProductID() - 124;
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\imagePaths3.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProducts3.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProductScreen3.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\Price3.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\screenProduct3.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\specificationProduct3.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\tinhNangNoiBat3.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\ProductID3.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\imagePaths3.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\nameProducts3.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\nameProductScreen3.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\Price3.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\screenProduct3.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\specificationProduct3.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\tinhNangNoiBat3.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\ProductID3.txt", rowInFile - 1);
                             }
                             else if (resultFoundProducts[i].getGenre() == "Tablet") {
                                 rowInFile = resultFoundProducts[i].getProductID() - 136;
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\imagePaths4.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProducts4.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\nameProductScreen4.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\Price4.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\screenProduct4.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\specificationProduct4.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\tinhNangNoiBat4.txt", rowInFile - 1);
-                                fileManager->deleteLineFromFile("D:\\PBL2_MYSTORE\\text\\DisplayDevice\\ProductID4.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\imagePaths4.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\nameProducts4.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\nameProductScreen4.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\Price4.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\screenProduct4.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\specificationProduct4.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\tinhNangNoiBat4.txt", rowInFile - 1);
+                                fileManager->deleteLineFromFile("text\\DisplayDevice\\ProductID4.txt", rowInFile - 1);
                             } 
                             // Xóa sản phẩm trong productInfo
                             int productID = resultFoundProducts[i].getProductID();
@@ -5283,7 +5282,7 @@ while (window.isOpen())
                                 return p.first == productID;
                             }), productInfo.end());
                             // Ghi lại vector vào file
-                            ofstream outputFile("D:\\PBL2_MYSTORE\\text\\productID_pathPicture.txt");
+                            ofstream outputFile("text\\productID_pathPicture.txt");
                             for (const auto& p : productInfo) {
                                 outputFile << p.first << "|" << p.second << endl;
                             }

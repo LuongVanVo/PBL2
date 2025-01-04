@@ -1,0 +1,3 @@
+102|Samsung Galaxy S24 Ultra|Dien Thoai|1044.15|Samsung|Android|1
+107|OPPO Find X5 Pro|Dien Thoai|632.02|OPPO|Android|1
+103|Xiaomi 14T Pro|Dien Thoai|669.69|Xiaomi|Android|1

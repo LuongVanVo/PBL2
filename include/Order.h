@@ -5,11 +5,11 @@
 #include <fstream>
 #include <iomanip>
 #include <string>
-#include "D:\PBL2_MYSTORE\include\Products.h"
-#include "D:\PBL2_MYSTORE\include\Customer.h"
-#include "D:\PBL2_MYSTORE\include\Discount.h"
-#include "D:\PBL2_MYSTORE\include\FileManager.h"
-#include "D:\PBL2_MYSTORE\include\History.h"
+#include "Products.h"
+#include "Customer.h"
+#include "Discount.h"
+#include "FileManager.h"
+#include "History.h"
 using namespace std;
 
 const int maxSize = 7;

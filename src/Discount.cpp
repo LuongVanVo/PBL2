@@ -30,7 +30,7 @@ double Discount::discount(string discountCode){
     Discount* discount = nullptr;
     int countD;
     double price = 0.0;
-    discount = FileManager::loadDiscount("D:\\PBL2_MYSTORE\\text\\Discount.txt", countD);
+    discount = FileManager::loadDiscount("text\\Discount.txt", countD);
     bool found = false;
     for(int i = 0; i < countD; i++){
         if (discount[i].getDisCountCode() == discountCode){
@@ -38,7 +38,7 @@ double Discount::discount(string discountCode){
             int k = discount[i].getAmount() - 1;
             if(k >= 0){
                 discount[i].setAmount(k); // giảm đi 1 mã giảm giá
-                FileManager::saveDiscount("D:\\PBL2_MYSTORE\\text\\Discount.txt", discount, countD);
+                FileManager::saveDiscount("text\\Discount.txt", discount, countD);
                 price = discount[i].getPrice();
             
             } else {

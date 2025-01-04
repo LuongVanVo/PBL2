@@ -231,3 +231,7 @@
 04-01-2025|18|100053|tôn đức thắng|541.44
 104|OPPO Reno10 Pro+|Dien Thoai|551.44|OPPO|Android|1
 *
+*
+04-01-2025|18|100054|24 Nguyễn Văn Linh, Đà Nẵng|669.69
+103|Xiaomi 14T Pro|Dien Thoai|669.69|Xiaomi|Android|1
+*

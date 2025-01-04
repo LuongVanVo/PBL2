@@ -2,7 +2,6 @@ D:\\PBL2_MYSTORE\\text\\TinhNangNoiBat\\101_iPhone15ProMax.txt
 D:\\PBL2_MYSTORE\\text\\TinhNangNoiBat\\102_SamsungGalaxyS24Ultra.txt
 D:\\PBL2_MYSTORE\\text\\TinhNangNoiBat\\103_Xiaomi14TPro.txt
 D:\\PBL2_MYSTORE\\text\\TinhNangNoiBat\\104_OppoReno10Pro+.txt
-D:\\PBL2_MYSTORE\\text\\TinhNangNoiBat\\105_TecnoPova6Neo.txt
 D:\\PBL2_MYSTORE\\text\\TinhNangNoiBat\\106_SamsungGalaxyZFlip6.txt
 D:\\PBL2_MYSTORE\\text\\TinhNangNoiBat\\107_OPPOFindX5Pro.txt
 D:\\PBL2_MYSTORE\\text\\TinhNangNoiBat\\108_iPhone16.txt
@@ -10,3 +9,4 @@ D:\PBL2_MYSTORE\text\TinhNangNoiBat\109_SamsungGalaxyS24FE.txt
 D:\PBL2_MYSTORE\text\TinhNangNoiBat\110_XiaomiRedmiNote13Pro+.txt
 D:\PBL2_MYSTORE\text\TinhNangNoiBat\111_realme13+5G.txt
 D:\PBL2_MYSTORE\text\TinhNangNoiBat\112_iPhone13.txt
+text\TinhNangNoiBat\149_OPPOFindX8.txt

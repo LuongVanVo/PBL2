@@ -130,7 +130,7 @@ int Customer::login(const std::string& username, const std::string& password, Cu
 void Customer::displayCustomer()
 {
     int customerSize;
-    Customer *customers = FileManager::loadCustomer("D:\\PBL2_MYSTORE\\text\\Customers.txt", customerSize);
+    Customer *customers = FileManager::loadCustomer("text\\Customers.txt", customerSize);
 
     if (customers == NULL || customerSize == 0) {
         std::cout << "No customer available. " << std::endl;
@@ -168,7 +168,7 @@ void Customer::updateCustomerInfo() {
     std::cin >> newPhone;
 
     // Đọc file và cập nhật thông tin khách hàng
-    std::ifstream fileIn("D:\\PBL2_MYSTORE\\text\\Customers.txt");
+    std::ifstream fileIn("text\\Customers.txt");
     if (!fileIn.is_open()) {
         std::cout << "Unable to open file for reading.\n";
         return;
@@ -213,7 +213,7 @@ void Customer::updateCustomerInfo() {
     }
 
     // Ghi đè lại file với nội dung mới
-    std::ofstream fileOut("D:\\PBL2_MYSTORE\\text\\Customers.txt", std::ios::trunc);
+    std::ofstream fileOut("text\\Customers.txt", std::ios::trunc);
     if (!fileOut.is_open()) {
         std::cout << "Unable to open file for writing.\n";
         return;
@@ -243,7 +243,7 @@ void Customer::changePassword()
             cout << "Confirmation password is incorrect. \n";
             return;
         } else {
-            ifstream fileIn("D:\\PBL2_MYSTORE\\text\\Customers.txt");
+            ifstream fileIn("text\\Customers.txt");
             if (!fileIn.is_open()) {
                 cout << "Unable to open file for reading. \n";
                 return;
@@ -282,7 +282,7 @@ void Customer::changePassword()
             }
 
             // Ghi de lai file voi noi dung moi
-            ofstream fileOut("D:\\PBL2_MYSTORE\\text\\Customers.txt", ios::trunc);
+            ofstream fileOut("text\\Customers.txt", ios::trunc);
             if (!fileOut.is_open()) {
                 cout << "Unable to open file for writing. \n";
                 return;
@@ -355,7 +355,7 @@ int Customer::verifyEmail(const string &email)
 void Customer::forgetPassword(const string& email, string &newPassword, string& confirmNewPassword)
 {
         int customerSize;
-        Customer* customers = FileManager::loadCustomer("D:\\PBL2_MYSTORE\\text\\Customers.txt", customerSize);
+        Customer* customers = FileManager::loadCustomer("text\\Customers.txt", customerSize);
 
         // Kiểm tra xem số điện thoại có tồn tại không
         int index = Customer::verifyEmail(email);
@@ -375,7 +375,7 @@ void Customer::forgetPassword(const string& email, string &newPassword, string& 
         customers[index].setPassword(newPassword);
 
         // Ghi lại dữ liệu vào file
-        ofstream fileOut("D:\\PBL2_MYSTORE\\text\\Customers.txt", ios::trunc);
+        ofstream fileOut("text\\Customers.txt", ios::trunc);
         if (!fileOut.is_open()) {
             cout << "Unable to open file for writing.\n";
             delete[] customers;  // Giải phóng bộ nhớ

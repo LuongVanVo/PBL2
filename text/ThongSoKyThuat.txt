@@ -182,49 +182,6 @@
                                 Chất liệu mặt lưng: Kính
 *
 *
-105|
-- Màn hình
-                                Kích thước màn hình: 6.78 Inches
-                                Công nghệ màn hình: LCD
-                                Độ phân giải màn hình: 1080 x 2460 pixels
-                                Tính năng màn hình: 120Hz
-- Camera sau
-                                Camera sau: 50MP + AI
-                                Quay video: 2K@30fps, 1080p@60fps, 1080p@30fps, 720p@30fps
-- Camera trước
-                                Camera trước: 8MP
-                                Quay video: 2K@30fps, 1080p@60fps, 1080p@30fps, 720p@30fps
-- Vi xử lý & đồ họa
-                                Chipset: MediaTek Helio G99 Ultimate
-                                Loại CPU: 2 x A76 lên đến 2.2GHz, 6 x A55 lên đến 2GHz
-                                GPU: ARM Mali-G57
-- Giao tiếp & kết nối
-                                Công nghệ NFC: Có
-                                Thẻ SIM: 2 Nano-SIM
-                                Jack tai nghe 3.5mm: Có
-                                Hỗ trợ mạng: 4G
-                                GPS: GPS
-- RAM & lưu trữ
-                                Dung lượng RAM: 8GB
-                                Bộ nhớ trong: 128GB
-- Pin & công nghệ sạc
-                                Pin: 7000mAh
-                                Cổng sạc: USB Type-C
-- Tính năng khác
-                                Hệ điều hành: Android 14
-- Thiết kế & trọng lượng
-                                Kích thước: 168.61 x 76.61 x 9.23 mm
-                                Trọng lượng: 225g
-- Tiện ích khác
-                                Các loại cảm biến: Cảm biến tiệm cận, Cảm biến ánh sáng
-                                                   La bàn, Cảm biến trọng lực
-- Cổng kết nối
-                                Wi-Fi: 802.11a/b/g/n/ac
-                                Bluetooth: v5.3
-- Thông số khác
-                                Công nghệ âm thanh: Loa kép với Dolby Atmos
-*
-*
 106|
 - Màn hình
                                 Kích thước màn hình: 6.7 inches
@@ -2100,4 +2057,67 @@ thanh:                          Active Noise Cancellation
                                 Chỉ số kháng nước, bụi: IP68 (Tab + S Pen)
                                 Công nghệ - Tiện ích: Samsung DeX (Giao diện tương tự PC), Vision Booster
                                 Công nghệ âm thanh: 4 loa AKG hỗ trợ Dolby Atmos
+*
+
+*
+149|
+- Màn hình
+                                Kích thước màn hình: 6.59 inches
+                                Công nghệ màn hình: AMOLED
+                                Độ phân giải màn hình: 1256 x 2760 pixels
+                                Tính năng màn hình: Tần số quét: 120 Hz, Kính cường lực GGi7
+                                                    Độ sáng tối đa: 1600 nits
+                                                    Màu sắc hiển thị: 1 tỷ màu
+- Camera sau
+                                Camera sau: 50MP OIS (Chính) + 50MP (Chân dung 
+                                                 Tele) + 50MP (Góc rộng)
+                                Quay video: 4K Video@30/60fps, 1080P Video@ 30/60fps
+                                            720P Video@30fps
+                                            Slo-mo Video: 1080P@240fps, 720P@240fps/480fps
+                                            Cinematic: 4K@30fps
+                                            Time-lapse: 4K@30fps, 1080P@30fps
+                                            Dual-view video: 1080P@30fps
+                                            Support EIS/OIS video, Optical zoom
+                                Tính năng camera: Chụp ảnh, Quay Video, Chụp chân dung
+                                                  Chụp đêm, Chụp Panorama, Cinematic
+                                                  Slo-mo, Phơi sáng lâu, xem video kép
+                                                  Time-lapse, Sticker, Scan tài liệu, XPAN
+                                                  HI-RES, Master
+- Camera trước
+                                Camera trước: 32MP, khẩu độ F/2.4
+                                Quay video trước: 4K Video@30/60fps, 1080P Video@30/60fps
+                                                  720P Video@30fps, Hỗ trợ EIS/OIS
+- Vi xử lý & đồ họa
+                                Chipset: MediaTek Dimensity 9400
+                                GPU: Immortalis G925 MC12
+                                Loại CPU: 8 nhânnhân
+- Giao tiếp & kết nối
+                                Công nghệ NFC: Có
+                                Thẻ SIM: Dual nano-SIM hoặc 1 nano-SIM + 1 eSIM
+                                Hỗ trợ mạng: 5G
+                                GPS: GPS, GLONASS, BDS, Galileo, QZSS, NavlC
+- RAM & lưu trữ
+                                Dung lượng RAM: 16 GB
+                                Bộ nhớ trong: 512 GB
+- Pin & công nghệ sạc
+                                Pin: 5630 mAh
+                                Công nghệ sạc: SuperVOOC 80W, Sạc không dây 50W
+                                Cổng sạc: USB Type-C
+- Tính năng khác
+                                Hệ điều hành: ColorOS 15, nền tảng Android 15
+- Kích thước & trọng lượng
+                                Kích thước: 157.35 x 74.33 x 7.85 mm
+                                Trọng lượng: 193 gr (bao gồm pin)
+- Thông số khác
+                                Chỉ số kháng nước, bụi: IP68/69
+                                Tiện ích khác: Touch to share, Ghi chú thông minh
+                                               Nhận diện giọng nói và xử lý tài liệu thông minh.
+                                Công nghệ âm thanh: Loa kép
+- Tiện ích khác
+                                Cảm biến vân tay: Cảm biến vân tay dưới màn hình
+                                Các loại cảm biến: Cảm biến gia tốc, Cảm biến tiệm cận
+                                                   Cảm biến ánh sáng, La bàn
+                                Tính năng đặc biệt: Hỗ trợ 5G, Kháng nước, Kháng bụi, Điện thoại AI
+- Cổng kết nối
+                                Bluetooth: 5.4 BLE
 *

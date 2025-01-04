@@ -1,10 +1,10 @@
 #ifndef FILEMANAGER_H
 #define FILEMANAGER_H
 
-#include "D:\PBL2_MYSTORE\include\Customer.h"
-#include "D:\PBL2_MYSTORE\include\Products.h"
-#include "D:\PBL2_MYSTORE\include\Discount.h"
-#include "D:\PBL2_MYSTORE\include\History.h"
+#include "Products.h"
+#include "Discount.h"
+#include "History.h"
+#include "Customer.h"
 #include <ctime>
 #include <chrono>
 #include <string>

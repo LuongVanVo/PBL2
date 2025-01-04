@@ -2,7 +2,6 @@
 102|Graphics/Picture/samsungS24Ultra.png
 103|Graphics/Picture/xiaomi14TPro.png
 104|Graphics/Picture/OPPOReno10pro+.jpg
-105|Graphics/Picture/TecnoPova6Neo.png
 106|Graphics/Picture/SamsungZFlip6.jpg
 107|Graphics/Picture/OPPOFindX5Pro.jpg
 108|Graphics/Picture/iPhone16.png
@@ -46,3 +45,4 @@
 146|Graphics/Picture/OPPOPad2.jpeg
 147|Graphics/Picture/iPadMini7.png
 148|Graphics/Picture/SamsungTabS9.jpg
+149|Graphics/Picture/OPPOFindX8.png

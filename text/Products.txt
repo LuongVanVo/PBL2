@@ -1,8 +1,7 @@
 101|iPhone 15 Pro Max|Dien Thoai|1158.46|Apple|iOS|52
 102|Samsung Galaxy S24 Ultra|Dien Thoai|1044.15|Samsung|Android|30
-103|Xiaomi 14T Pro|Dien Thoai|669.69|Xiaomi|Android|32
+103|Xiaomi 14T Pro|Dien Thoai|669.69|Xiaomi|Android|31
 104|OPPO Reno10 Pro+|Dien Thoai|551.44|OPPO|Android|28
-105|Tecno Pova 6 Neo|Dien Thoai|161.66|Tecno|Android|29
 106|Samsung Galaxy Z Flip 6|Dien Thoai|1066.8|Samsung|Android|24
 107|OPPO Find X5 Pro|Dien Thoai|632.02|OPPO|Android|23
 108|iPhone 16|Dien Thoai|877.08|Apple|iOS|35
@@ -46,3 +45,4 @@
 146|OPPO Pad 2 WiFi|Tablet|382.47|OPPO|Android|28
 147|iPad Mini 7 2024 Wifi|Tablet|650.88|Apple|iPadOS|41
 148|Samsung Galaxy Tab S9 Wifi|Tablet|591.67|Samsung|Android|50
+149|OPPO Find X8|Dien Thoai|904.05|OPPO|Android|45
